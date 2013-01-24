@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<!-- Epa 2012 C 30 issue 3-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>C</journal>
+  <volume>30</volume>
+  <issue>3</issue>
+  <html_in>../html_epc_30_3/*.html</html_in>
+  <save_refs>./epc_refs/</save_refs>
+  <save_db>./epc_db_proof/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+
+  <paper pid='c1022'>
+    <start>318</start>
+    <finish>400</finish>
+    <misc></misc>
+    <ptype>14</ptype>
+  </paper>
+
+  <paper pid='c11104'>
+    <start>401</start>
+    <finish>415</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11124'>
+    <start>416</start>
+    <finish>428</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c10158'>
+    <start>429</start>
+    <finish>447</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c10208'>
+    <start>448</start>
+    <finish>466</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11193r'>
+    <start>467</start>
+    <finish>486</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c10150j'>
+    <start>487</start>
+    <finish>503</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11167b'>
+    <start>504</start>
+    <finish>535</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11150'>
+    <start>536</start>
+    <finish>552</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c451rev'>
+    <start>553</start>
+    <finish>554</finish>
+    <misc></misc>
+    <ptype>3</ptype>
+  </paper>
+
+ </papers>
+</config>
+  
+
+

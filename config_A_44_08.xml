@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<!-- Epa 2012 D 44 issue 5-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>A</journal>
+  <volume>44</volume>
+  <issue>8</issue>
+  <html_in>../epa_44_08_html/*.html</html_in>
+  <save_refs>./epa_refs/</save_refs>
+  <save_db>./epa_db_44_8/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+
+  <paper pid='a44272'>
+    <start>1969</start>
+    <finish>1985</finish>
+    <misc></misc>
+    <ptype>0  </ptype>
+  </paper>
+
+  <paper pid='a44310'>
+    <start>1896</start>
+    <finish>1911</finish>
+    <misc></misc>
+    <ptype>0  </ptype>
+  </paper>
+
+  <paper pid='a44395'>
+    <start>1836</start>
+    <finish>1855</finish>
+    <misc></misc>
+    <ptype>0  </ptype>
+  </paper>
+  
+  <paper pid='a44461'>
+    <start>1801</start>
+    <finish>1818</finish>
+    <misc></misc>
+    <ptype>0  </ptype>
+  </paper>
+
+  <paper pid='a44495'>
+    <start>1986</start>
+    <finish>2005</finish>
+    <misc></misc>
+    <ptype>0  </ptype>
+  </paper>
+
+  <paper pid='a44511'>
+    <start>1912</start>
+    <finish>1929</finish>
+    <misc></misc>
+    <ptype>0  </ptype>
+  </paper>
+
+
+  <paper pid='a44514'>
+    <start>1779</start>
+    <finish>1780</finish>
+    <misc></misc>
+    <ptype>0  </ptype>
+  </paper>
+
+<paper pid='a44549'>
+    <start>1856</start>
+    <finish>1874</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='a44565'>
+    <start>1819</start>
+    <finish>1835</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='a44600'>
+    <start>2006</start>
+    <finish>2022</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='a44609'>
+    <start>1785</start>
+    <finish>1800</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='a44615'>
+    <start>1930</start>
+    <finish>1950</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='a44632'>
+    <start>1875</start>
+    <finish>1895</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='a44636'>
+    <start>1951</start>
+    <finish>1968</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='a44679'>
+    <start>2023</start>
+    <finish>2039</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='a45212'>
+    <start>1781</start>
+    <finish>1784</finish>
+    <misc></misc>
+    <ptype>2</ptype>
+  </paper>
+
+ </papers>
+</config>
+  
+
+

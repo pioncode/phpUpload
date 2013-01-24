@@ -1,0 +1,1 @@
+select count(*) from subscribers, access where subscribers.client=access.client and '$thisip'::CIDR <<= ip and prod ~ '$matchcode' and deny is not true

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epb 2012 V 39 issue 5-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>B</journal>
+  <volume>39</volume>
+  <issue>5</issue>
+  <html_in>../EP_folders/html_b_39_05/*.html</html_in>
+  <save_refs>./epb_refs/</save_refs>
+  <save_db>./epb_db_39_05/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+<!--Normal Paper -->
+  <paper pid='announcement'>
+    <start>781</start>
+    <finish>781</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b3905br'>
+    <start>782</start>
+    <finish>784</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b36097'>
+    <start>785</start>
+    <finish>800</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b37132'>
+    <start>801</start>
+    <finish>819</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b37088'>
+    <start>820</start>
+    <finish>837</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b37147'>
+    <start>838</start>
+    <finish>857</finish>
+    <ptype></ptype>
+  </paper>
+<!--Misc Paper -->
+  <paper pid='b36151'>
+    <start>858</start>
+    <finish>879</finish>
+    <misc>
+     <title>Appendix</title>
+     <file>b36151_appendix</file>
+    </misc>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b37112'>
+    <start>880</start>
+    <finish>896</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b37134'>
+    <start>897</start>
+    <finish>924</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b37092'>
+    <start>925</start>
+    <finish>944</finish>
+    <ptype></ptype>
+  </paper>
+   <paper pid='b38001'>
+    <start>945</start>
+    <finish>964</finish>
+    <ptype></ptype>
+  </paper>
+   <paper pid='reviews'>
+    <start>965</start>
+    <finish>970</finish>
+    <ptype></ptype>
+  </paper>
+ </papers>
+</config>
+  
+
+
+
+

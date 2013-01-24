@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='us-ascii' standalone='yes'?>
+<root>
+
+<article paperid="c10150j">
+<names AddressAuthorId="0"><c-name>Udo</c-name><s-name>Pesch</s-name></names>
+<names AddressAuthorId="1"><c-name>Dave</c-name><s-name>Huitema</s-name></names>
+<names AddressAuthorId="2"><c-name>Matthijs</c-name><s-name>Hisschem&#xF6;ller</s-name></names>
+<institute AddressAuthorId="0"><address>Technology Dynamics and Sustainable Development, Faculty of Technology, Policy and Management, Delft University of Technology, PO Box 5015, 2600 GA Delft, The&#xA0;Netherlands</address>
+<emails><email>u.pesch@tudelft.nl</email></emails></institute>
+<institute AddressAuthorId="1"><address>Environmental Policy Analysis, Institute for Environmental Studies, VU Amsterdam, De&#xA0;Boelelaan 1087, 1081 HV Amsterdam, The Netherlands</address>
+<emails><email>dave.huitema@ivm.vu.nl</email></emails></institute>
+<institute AddressAuthorId="2"><address>Environmental Policy Analysis, Institute for Environmental Studies, VU Amsterdam, De&#xA0;Boelelaan 1087, 1081 HV Amsterdam, The Netherlands</address>
+<emails><email>Matthijs.hisschemoller@ivm.vu.nl</email></emails></institute>
+</article>
+
+<article paperid="c10158">
+<names AddressAuthorId="0"><c-name>Riley</c-name><s-name>Smith</s-name></names>
+<names AddressAuthorId="1"><c-name>Arnim</c-name><s-name>Wiek</s-name></names>
+<institute AddressAuthorId="0"><address>School of Sustainability, Arizona State University, PO Box 875502, Tempe, AZ 85287-5502, USA</address>
+<emails/></institute>
+<institute AddressAuthorId="1"><address>School of Sustainability, Arizona State University, PO Box 875502, Tempe, AZ 85287-5502, USA</address>
+<emails><email>arnim.wiek@asu.edu</email></emails></institute>
+</article>
+
+
+<article paperid="c11104">
+<names AddressAuthorId="0"><c-name>Camilla</c-name><s-name>Adelle</s-name></names>
+<names AddressAuthorId="1"><c-name>Andrew</c-name><s-name>Jordan</s-name></names>
+<names AddressAuthorId="2"><c-name>John</c-name><s-name>Turnpenny</s-name></names>
+<institute AddressAuthorId="0"><address>Tyndall Centre, School of Environmental Sciences, University of East Anglia, Norwich, NR4 7TJ, England </address>
+<emails/></institute>
+<institute AddressAuthorId="1"><address>Tyndall Centre, School of Environmental Sciences, University of East Anglia, Norwich, NR4 7TJ, England</address>
+<emails><email>a.jordan@uea.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address>Tyndall Centre, School of Environmental Sciences, University of East Anglia, Norwich, NR4 7TJ, England</address>
+<emails><email>j.turnpenny@uea.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="c11124">
+<names AddressAuthorId="0"><c-name>Yongliang</c-name><s-name>Zhang</s-name></names>
+<names AddressAuthorId="1"><c-name>Bing</c-name><s-name>Zhang</s-name></names>
+<names AddressAuthorId="2"><c-name>Jun</c-name><s-name>Bi</s-name></names>
+<institute AddressAuthorId="0"><address>State Key Laboratory of Pollution Control and Resource Reuse, School of Environment, Nanjing University, Nanjing, 210093, People&#x2019;s Republic of China;</address>
+<emails><email>zhangyoli@gmail.com</email></emails></institute>
+<institute AddressAuthorId="1"><address>State Key Laboratory of Pollution Control and Resource Reuse, School of Environment, Nanjing University, Nanjing, 210093, People&#x2019;s Republic of China;</address>
+<emails><email>cemp@nju.edu.cn</email></emails></institute>
+<institute AddressAuthorId="2"><address>State Key Laboratory of Pollution Control and Resource Reuse, School of Environment, Nanjing University, Nanjing, 210093, People&#x2019;s Republic of China;</address>
+<emails><email>jbi@nju.edu.cn</email></emails></institute>
+</article>
+
+
+<article paperid="c11150">
+<names AddressAuthorId="0"><c-name>Daniel</c-name><s-name>Galland</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Development and Planning, Aalborg University, DK-9220 Aalborg &#xD8;, Denmark;</address>
+<emails><email>dgalland@plan.aau.dk</email></emails></institute>
+</article>
+
+
+<article paperid="c11167b">
+<names AddressAuthorId="0"><c-name>Monder</c-name><s-name>Ram</s-name></names>
+<names AddressAuthorId="1"><c-name>Kiran</c-name><s-name>Trehan</s-name></names>
+<names AddressAuthorId="2"><c-name>John</c-name><s-name>Rouse</s-name></names>
+<names AddressAuthorId="3"><c-name>Kassa</c-name><s-name>Woldesenbet</s-name></names>
+<names AddressAuthorId="4"><c-name>Trevor</c-name><s-name>Jones</s-name></names>
+<institute AddressAuthorId="0"><address>Centre for Research in Ethnic Minority Enterpreneurship, Leicester Business School, De&#xA0;Montfort University, The Gateway, Leicester LE1 9BH, England</address>
+<emails><email>mram@dmu.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Human Resource Development and Consulting, Lancaster University Management School, University of Lancaster, Lancaster LA1 4YX, England</address>
+<emails><email>k.trehan@lancaster.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address>50 Clarence Road, Moseley, Birmingham B13 9UH, England</address>
+<emails><email>johnsrouse@gmail.com</email></emails></institute>
+<institute AddressAuthorId="3"><address>Centre for Research in Ethnic Minority Enterpreneurship, Leicester Business&#xA0;School, De&#xA0;Montfort University, The Gateway, Leicester LE1 9BH, England</address>
+<emails><email>kwoldesenbet@dmu.ac.uk</email></emails></institute>
+<institute AddressAuthorId="4"><address>Centre for Research in Ethnic Minority Enterpreneurship, Leicester Business&#xA0;School, De&#xA0;Montfort University, The Gateway, Leicester LE1 9BH, England</address>
+<emails><email>creme@dmu.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="c11193r">
+<names AddressAuthorId="0"><c-name>Juan</c-name><s-name>Romero</s-name></names>
+<names AddressAuthorId="1"><c-name>Fernando</c-name><s-name>Jim&#xE9;nez</s-name></names>
+<names AddressAuthorId="2"><c-name>Manuel</c-name><s-name>Villoria</s-name></names>
+<institute AddressAuthorId="0"><address>Interuniversity Institute for Local Development and Department of Geography, University of Valencia, Avenida Blasco Ib&#xE1;&#xF1;ez, 28, 46540, Valencia, Spain</address>
+<emails><email>juan.romero@uv.es</email></emails></institute>
+<institute AddressAuthorId="1"><address>Department of Political Science, University of Murcia, Ronda de Levante, 10, 30008 Murcia, Spain</address>
+<emails><email>fjimesan@um.es</email></emails></institute>
+<institute AddressAuthorId="2"><address>Department of Public Law and Political Science, University Rey Juan Carlos, Paseo Artilleros s/n 28032, Madrid, Spain</address>
+<emails><email>manuel.villoria@urjc.es</email></emails></institute>
+
+</article>
+<article paperid="c10208">
+<names AddressAuthorId="0"><c-name>Edmund C</c-name><s-name>Penning-Rowsell</s-name></names>
+<names AddressAuthorId="1"><c-name>Joanna</c-name><s-name>Pardoe</s-name></names>
+<institute AddressAuthorId="0"><address>Middlesex University, The Burroughs, London NW4 4BT, England</address>
+<emails><email>Edmund@penningrowsell.com</email></emails></institute>
+<institute AddressAuthorId="1"><address>Middlesex University, The Burroughs, London NW4 4BT, England</address>
+<emails><email>j.l.pardoe@gmail.com</email></emails></institute>
+</article>
+
+<article paperid="c10222">
+<names AddressAuthorId="0"><c-name>Gill</c-name><s-name>Seyfang</s-name></names>
+<names AddressAuthorId="1"><c-name>Alex</c-name><s-name>Hazeltine</s-name></names>
+<institute AddressAuthorId="0"><address>Science, Society and Sustainability (3S) Research Group, School of Environmental Sciences, University of East Anglia, Norwich NR4 7TJ, England</address>
+<emails><email>g.seyfang@uea.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Science, Society and Sustainability (3S) Research Group, School of Environmental Sciences, University of East Anglia, Norwich NR4 7TJ, England</address>
+<emails><email>alex.hazeltine@uea.ac.uk</email></emails></institute>
+</article>
+
+<article paperid="c451rev">
+<names AddressAuthorId="0"><c-name>Robert</c-name><s-name>Bennett</s-name></names>
+</article>
+
+<article paperid="c11156">
+<names AddressAuthorId="0"><c-name>Andy</c-name><s-name>Inch</s-name></names>
+<institute AddressAuthorId="1"><address>Department of Town and Regional Planning, University of Sheffield, Western Bank,
+Sheffield S10 2TN, England</address><emails><email>a.inch@sheffield.ac.uk</email></emails></institute>
+
+</article>
+
+</root>

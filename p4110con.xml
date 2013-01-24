@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epa 2012 D 44 issue 5-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>P</journal>
+  <volume>41</volume>
+  <issue>10</issue>
+  <html_in>../p4110-html/*.html</html_in>
+  <save_refs>./epa_refs/</save_refs>
+  <save_db>./per_db_41_10/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers> 
+  <!--Normal Papers-->
+ <paper pid='p7313'>
+    <start>1163</start>
+    <finish>1185</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7149'>
+    <start>1186</start>
+    <finish>1192</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7263'>
+    <start>1193</start>
+    <finish>1217</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7243'>
+    <start>1218</start>
+    <finish>1233</finish>
+   <misc>
+     <title>Figure 1</title>
+     <file>p7243-f1.pdf</file>
+    </misc>
+       <misc>
+     <title>Appendix</title>
+     <file>p7243ap.pdf</file>
+    </misc>
+      <ptype></ptype>
+  </paper>
+    
+  <paper pid='p7214'>
+    <start>1234</start>
+    <finish>1245</finish>
+       <ptype></ptype>
+  </paper>
+  
+  <paper pid='p7244'>
+    <start>1246</start>
+    <finish>1261</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7350'>
+    <start>1262</start>
+    <finish>1266</finish>
+     <ptype></ptype>
+  </paper>
+  
+   <!--AVA/BMVA abstracts-->
+ <paper pid='ava12'>
+    <start>1267</start>
+    <finish>1274</finish>
+      <ptype></ptype>
+  </paper>
+  
+   <!--Short & Sweet papers-->
+ <paper pid='p7396'>
+    <start>1275</start>
+    <finish>1127</finish>
+ <misc>
+     <title>Figure 1</title>
+     <file>p7396-f1.pdf</file>
+    </misc>
+       <ptype></ptype>
+  </paper>
+     
+ <paper pid='p7271'>
+    <start>1275</start>
+    <finish>1276</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7317'>
+    <start>1277</start>
+    <finish>1280</finish>
+  <misc>
+     <title>Figure 1</title>
+     <file>p7317-f1.pdf</file>
+    </misc>
+     <misc>
+     <title>Figure 3</title>
+     <file>p7317-f3.pdf</file>
+    </misc>
+     <misc>
+     <title>Figure 4</title>
+     <file>p7317-f4.pdf</file>
+    </misc>
+       <ptype></ptype>
+  </paper>
+  
+  <paper pid='p7246'>
+    <start>1281</start>
+    <finish>1285</finish>
+    <ptype></ptype>
+  </paper>
+  
+    <!--Reviewss-->
+ <paper pid='p4110rvw'>
+    <start>1286</start>
+    <finish>1288</finish>
+    <ptype></ptype>
+  </paper>
+  
+ </papers>
+</config>
+  
+
+
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- EpD 2012 D 30 issue 5-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>D</journal>
+  <volume>30</volume>
+  <issue>5</issue>
+  <html_in>../d_3005/*.html</html_in>
+  <save_refs>./epd_refs/</save_refs>
+  <save_db>./d_db_30_05/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+<!--Normal Paper -->
+  <paper pid='d6809'>
+    <start>757</start>
+    <finish>771</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='d17310'>
+    <start>772</start>
+    <finish>787</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='d9011'>
+    <start>788</start>
+    <finish>804</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='d9110'>
+    <start>805</start>
+    <finish>821</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <!--Normal Paper -->
+  <paper pid='d7710'>
+    <start>822</start>
+    <finish>841</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='d7111'>
+    <start>842</start>
+    <finish>860</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='d20710'>
+    <start>861</start>
+    <finish>876</finish>
+    <ptype></ptype>
+    </paper>
+  
+    <!--Normal Paper -->
+  <paper pid='d11210'>
+    <start>877</start>
+    <finish>895</finish>
+    <ptype></ptype>
+    </paper>
+  
+    <!--Normal Paper -->
+  <paper pid='d17510'>
+    <start>896</start>
+    <finish>912</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='d19710'>
+    <start>913</start>
+    <finish>929</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='d16310'>
+    <start>930</start>
+    <finish>946</finish>
+    <ptype></ptype>
+  </paper>
+ </papers>
+</config>
+  
+
+
+
+

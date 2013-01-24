@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<!-- Epa 2012 D 44 issue 5-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>D</journal>
+  <volume>30</volume>
+  <issue>4</issue>
+  <html_in>../epd_html/*.html</html_in>
+  <save_refs>./epd_refs/</save_refs>
+  <save_db>./epd_db_d_30_4/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+
+  <paper pid='d3004ed'>
+    <start>569</start>
+    <finish>569</finish>
+    <misc></misc>
+    <ptype>5</ptype>
+  </paper>
+
+<paper pid='d17910'>
+    <start>570</start>
+    <finish>587</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='d11110'>
+    <start>588</start>
+    <finish>602</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='d4611'>
+    <start>603</start>
+    <finish>622</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='d3211'>
+    <start>623</start>
+    <finish>638</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='d9610'>
+    <start>639</start>
+    <finish>654</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='d11410'>
+    <start>655</start>
+    <finish>674</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='d1410'>
+    <start>675</start>
+    <finish>693</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='d22510'>
+    <start>694</start>
+    <finish>710</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='d11409'>
+    <start>711</start>
+    <finish>726</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='d10511'>
+    <start>727</start>
+    <finish>747</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+<paper pid='d3004re'>
+    <start>748</start>
+    <finish>755</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+ 
+ </papers>
+</config>
+  
+
+

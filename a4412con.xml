@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epa 2012 A 44 issue 12-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype0   = Featured graphic
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>A</journal>
+  <volume>44</volume>
+  <issue>12</issue>
+  <html_in>../html/*.html</html_in>
+  <save_refs>./epa_refs/</save_refs>
+  <save_db>./epa_db_44_12/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+<!--Normal Paper -->
+  <paper pid='a45439'>
+    <start>2787</start>
+    <finish>2793</finish>
+    <ptype>2</ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a45612'>
+    <start>2794</start>
+    <finish>2800</finish>
+    <ptype>1</ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a44373'>
+    <start>2801</start>
+    <finish>2816</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a44254'>
+    <start>2817</start>
+    <finish>2833</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <!--Normal Paper -->
+  <paper pid='a44253'>
+    <start>2834</start>
+    <finish>2851</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a44252'>
+    <start>2852</start>
+    <finish>2866</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a45123'>
+    <start>2867</start>
+    <finish>2882</finish>
+    <ptype></ptype>
+    </paper>
+  
+    <!--Normal Paper -->
+  <paper pid='a4551'>
+    <start>2883</start>
+    <finish>2900</finish>
+    <ptype></ptype>
+    </paper>
+  
+    <!--Normal Paper -->
+  <paper pid='a4543'>
+    <start>2901</start>
+    <finish>2921</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a44671'>
+    <start>2922</start>
+    <finish>2939</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a4528'>
+    <start>2940</start>
+    <finish>2956</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a4556'>
+    <start>2957</start>
+    <finish>2973</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a45136'>
+    <start>2974</start>
+    <finish>2987</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a4512'>
+    <start>2988</start>
+    <finish>3009</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a4595'>
+    <start>3010</start>
+    <finish>3027</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a4412ref'>
+    <start>3028</start>
+    <finish>3034</finish>
+    <ptype>4</ptype>
+  </paper>
+ </papers>
+</config>
+  
+
+
+
+

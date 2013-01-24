@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epa 2012 D 44 issue 5-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>P</journal>
+  <volume>41</volume>
+  <issue>9</issue>
+  <html_in>../per_4109/*.html</html_in>
+  <save_refs>./epa_refs/</save_refs>
+  <save_db>./per_db_41_09/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+<!--Editorial-->
+  <paper pid='p4109ed'>
+    <start>1009</start>
+    <finish>1012</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Foreword-->
+ <paper pid='p4109fw'>
+    <start>1013</start>
+    <finish>1016</finish>
+        <ptype></ptype>
+  </paper>
+  
+  <!--Normal Papers-->
+ <paper pid='p7299'>
+    <start>1017</start>
+    <finish>1023</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7295'>
+    <start>1027</start>
+    <finish>1030</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7292'>
+    <start>1031</start>
+    <finish>1039</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7311'>
+    <start>1040</start>
+    <finish>1052</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <paper pid='p7327'>
+    <start>1053</start>
+    <finish>1060</finish>
+       <ptype></ptype>
+  </paper>
+  
+  <paper pid='p7297'>
+    <start>1061</start>
+    <finish>1072</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7275'>
+    <start>1073</start>
+    <finish>1091</finish>
+       <misc>
+     <title>Figure 2</title>
+     <file>p7275-f2.pdf</file>
+    </misc>
+     <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7308'>
+    <start>1092</start>
+    <finish>1115</finish>
+      <misc>
+     <title>Figure 1</title>
+     <file>p7308-f1.pdf</file>
+    </misc>
+      <misc>
+     <title>Figure 2</title>
+     <file>p7308-f2pdf</file>
+    </misc>
+      <misc>
+     <title>Figure 3</title>
+     <file>p7308-f3.pdf</file>
+    </misc>
+      <misc>
+     <title>Figure 4</title>
+     <file>p7308-f4.pdf</file>
+    </misc>
+      <misc>
+     <title>Figure 6</title>
+     <file>p7308-f6.pdf</file>
+    </misc>
+      <misc>
+     <title>Figure 7</title>
+     <file>p7308-f7.pdf</file>
+    </misc>
+      <misc>
+     <title>Figure 8</title>
+     <file>p7308-f8.pdf</file>
+    </misc>
+      <misc>
+     <title>Figure 10</title>
+     <file>p7308-f10.pdf</file>
+    </misc>
+      <misc>
+     <title>Figure 11</title>
+     <file>p7308-f11.pdf</file>
+    </misc>
+      <misc>
+     <title>Figure 17</title>
+     <file>p7308-f17.pdf</file>
+    </misc>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7274'>
+    <start>1116</start>
+    <finish>1127</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7271'>
+    <start>1128</start>
+    <finish>1152</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7338'>
+    <start>1153</start>
+    <finish>1162</finish>
+    <ptype></ptype>
+  </paper>
+  
+ </papers>
+</config>
+  
+
+
+

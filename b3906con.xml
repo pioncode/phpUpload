@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epb 2012 V 39 issue 6-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>B</journal>
+  <volume>39</volume>
+  <issue>6</issue>
+  <html_in>../epb_39_06/*.html</html_in>
+  <save_refs>./epb_refs/</save_refs>
+  <save_db>./epb_db_39_06/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+<!--
+  <theme>
+   <startpage>973</startpage>
+   <endpage>1068</endpage>
+   <title>
+   Theme issue: Spatial thinking and geographic information science
+   </title>
+   <guested>
+   Yasushi Asami, Paul Longley
+   </guested>
+   <p14>
+   </p14>
+  </theme>
+-->
+<!--Normal Paper -->
+  <paper pid='b3906as'>
+    <start>971</start>
+    <finish>971</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b3906ed'>
+    <start>972</start>
+    <finish>974</finish>
+    <ptype>5</ptype>
+  </paper>
+  <paper pid='b3906ge'>
+    <start>975</start>
+    <finish>977</finish>
+    <ptype>1</ptype>
+  </paper>
+  <paper pid='b38023'>
+    <start>978</start>
+    <finish>990</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b38024'>
+    <start>991</start>
+    <finish>1005</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b38029'>
+    <start>1006</start>
+    <finish>1015</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b38034t'>
+    <start>1016</start>
+    <finish>1033</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b38026'>
+    <start>1034</start>
+    <finish>1048</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b38027'>
+    <start>1049</start>
+    <finish>1068</finish>
+    <ptype></ptype>
+  </paper>
+   <paper pid='b38006'>
+    <start>1069</start>
+    <finish>1083</finish>
+    <ptype></ptype>
+  </paper>
+   <paper pid='b37121'>
+    <start>1084</start>
+    <finish>1104</finish>
+    <ptype></ptype>
+  </paper><paper pid='b37073'>
+    <start>1105</start>
+    <finish>1118</finish>
+    <ptype></ptype>
+  </paper><paper pid='b37182'>
+    <start>1119</start>
+    <finish>1130</finish>
+    <ptype></ptype>
+  </paper><paper pid='b38117'>
+    <start>1131</start>
+    <finish>1150</finish>
+    <ptype></ptype>
+  </paper> <paper pid='b3906ref'>
+    <start>1151</start>
+    <finish>1152</finish>
+    <ptype></ptype>
+  </paper>  
+ </papers>
+</config>
+  
+
+
+
+

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<!-- E&P 2012 C 30 issue 4-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>C</journal>
+  <volume>30</volume>
+  <issue>4</issue>
+  <html_in>../html_epc_30_4/*.html</html_in>
+  <save_refs>./epc_refs/</save_refs>
+  <save_db>./epc_db_30_4_proof/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+
+  <paper pid='c3004bp'>
+    <start>555</start>
+    <finish>555</finish>
+    <misc></misc>
+    <ptype>0</ptype>
+  </paper>
+
+
+  <paper pid='c3004ed'>
+    <start>556</start>
+    <finish>570</finish>
+    <misc></misc>
+    <ptype>1</ptype>
+  </paper>
+
+  <paper pid='c11127'>
+    <start>571</start>
+    <finish>590</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11126'>
+    <start>591</start>
+    <finish>612</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c1179'>
+    <start>613</start>
+    <finish>626</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c1194'>
+    <start>627</start>
+    <finish>642</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11251'>
+    <start>643</start>
+    <finish>657</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11137'>
+    <start>658</start>
+    <finish>674</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11166'>
+    <start>675</start>
+    <finish>692</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11185r'>
+    <start>693</start>
+    <finish>711</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11116'>
+    <start>712</start>
+    <finish>729</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c1164r'>
+    <start>730</start>
+    <finish>745</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c3004rev'>
+    <start>746</start>
+    <finish>760</finish>
+    <misc></misc>
+    <ptype>3</ptype>
+  </paper>
+ </papers>
+</config>
+  
+
+

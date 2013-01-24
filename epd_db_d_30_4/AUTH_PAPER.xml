@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='us-ascii' standalone='yes'?>
+<root>
+
+<article paperid="d10511">
+<names AddressAuthorId="0"><c-name>Matthew</c-name><s-name>Gandy</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography, University College London, 26 Bedford Way, London&#xA0;WC1H&#xA0;0AP, England</address>
+<emails><email>m.gandy@ucl.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="d11110">
+<names AddressAuthorId="0"><c-name>Becky</c-name><s-name>Mansfield</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography, Ohio State University, 1036 Derby Hall, 154 North Oval Mall, Columbus, OH 43210, USA</address>
+<emails><email>mansfield.32@osu.edu</email></emails></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="d11409">
+<names AddressAuthorId="0"><c-name>Elana</c-name><s-name>Wilson Rowe</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Russian and Eurasian Studies, Norwegian Institute of International Affairs, Box&#xA0;8159 Dep., N-0033 Oslo, Norway</address>
+<emails><email>ew@nupi.no</email></emails></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="d11410">
+<names AddressAuthorId="0"><c-name>Sara</c-name><s-name>Fregonese</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography,&#xA0;Royal&#xA0;Holloway&#xA0;University of London, Egham, Surrey TW20&#xA0;0EX, England</address>
+<emails><email>sara.fregonese@rhul.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="d1410">
+<names AddressAuthorId="0"><c-name>Richard</c-name><s-name>Hornsey</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Creative Industries, University of the West of England, Bristol BS16&#xA0;2JP, England</address>
+<emails><email>Richard.Hornsey@uwe.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="d17910">
+<names AddressAuthorId="0"><c-name>Jon</c-name><s-name>Anderson</s-name></names>
+<institute AddressAuthorId="0"><address>School of City and Regional Planning, 2.71 Glamorgan Building, Cardiff University, King&#xA0;Edward VII Avenue, Cardiff CF10 3WA, Wales</address>
+<emails><email>andersonj@cardiff.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="d22510">
+<names AddressAuthorId="0"><c-name>David</c-name><s-name>Bissell</s-name><c-name>Maria</c-name><s-name>Hynes</s-name></names>
+<names AddressAuthorId="1"><c-name>Scott</c-name><s-name>Sharpe</s-name></names>
+<institute AddressAuthorId="0"><address>Research School of Social Sciences, The Australian National University, Canberra,
+        ACT 0200, Australia</address>
+<emails><email>david.bissell@anu.edu.au</email><email>maria.hynes@anu.edu.au</email></emails></institute>
+<institute AddressAuthorId="1"><address>School of Physical, Environmental and Mathematical Sciences, University College, University of&#xA0;New&#xA0;South Wales, Australian Defence Force Academy, Canberra, ACT 2600, Australia</address>
+<emails><email>s.sharpe@adfa.edu.au</email></emails></institute>
+<institute AddressAuthorId="2"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="d3211">
+<names AddressAuthorId="0"><c-name>Gail</c-name><s-name>Davies</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography, University College London, Gower Street, London WC1E 6BT, England</address>
+<emails><email>gail.davies@ucl.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="d4611">
+<names AddressAuthorId="0"><c-name>Teo</c-name><s-name>Ballv&#xE9;</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography, University of California, Berkeley, 507 McCone Hall, Berkeley, CA 94720, USA</address>
+<emails><email>teo@nacla.org</email></emails></institute>
+</article>
+
+
+<article paperid="d9610">
+<names AddressAuthorId="0"><c-name>Uli</c-name><s-name>Beisel</s-name></names>
+<names AddressAuthorId="1"><c-name>Tillmann</c-name><s-name>Schneider</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography, Open University and Lancaster Environment Centre, Lancaster University, Lancaster LA1 4YQ, England</address>
+<emails><email>uli.beisel@gmail.com</email></emails></institute>
+<institute AddressAuthorId="1"><address>Law Faculty, Humboldt Universit&#xE4;t zu Berlin, D-10099 Berlin, Germany;
+        e-mail:</address>
+<emails><email>tillmannschneider@gmx.de</email></emails></institute>
+</article>
+
+</root>

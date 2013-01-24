@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='us-ascii' standalone='yes'?>
+<root>
+
+<article paperid="c1122">
+<names AddressAuthorId="0"><c-name>Rui</c-name><s-name>Wang</s-name></names>
+<institute AddressAuthorId="0"><address>Luskin School of Public Affairs, 3250 Public Affairs Building, Box&#xA0;951656, University of California, Los Angeles, CA&#xA0;90095, USA</address>
+<emails><email>ruiwang@ucla.edu</email></emails></institute>
+</article>
+
+
+<article paperid="c11275b">
+<names AddressAuthorId="0"/>
+<institute AddressAuthorId="0"><address>Stirling Management School, University of Stirling, Stirling FK9 4LA, Scotland;</address>
+<emails><email>e-mail: t.m.forbes@stir.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="c11290">
+<names AddressAuthorId="0"><c-name>Paul</c-name><s-name>du&#xA0;Gay</s-name></names>
+<names AddressAuthorId="1"><c-name>Yuval</c-name><s-name>Millo</s-name></names>
+<names AddressAuthorId="2"><c-name>Penelope</c-name><s-name>Tuck</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Organization, Copenhagen Business School, Kilen, Kilevej&#xA0;14A, K4.58, 2000, Fredericksberg, Denmark</address>
+<emails><email>pdg.ioa@cbs.dk</email></emails></institute>
+<institute AddressAuthorId="1"><address>School of Management, University of Leicester, Ken Edwards Building, University Road, Leicester LE1 7RH, England</address>
+<emails><email>ym95@leicester.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address>Warwick Business School, Scarman Road, The University of Warwick, Coventry&#xA0;CV4&#xA0;7AL, England</address>
+<emails><email>penelope.tuck@wbs.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="c11333">
+<names AddressAuthorId="0"><c-name>Sean</c-name><s-name>Fox</s-name></names>
+<names AddressAuthorId="1"><c-name>Jo</c-name><s-name>Beall</s-name></names>
+<institute AddressAuthorId="0"><address>Department of International Development, London School of Economics and Political Science, Houghton Street, London WC2A 2AE, England;</address>
+<emails><email>e-mail: S.fox1@lse.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Education and Society, British Council, 10 Spring Gardens, London SW1A 2BN, England</address>
+<emails><email>; e-mail: Jo.Beall@britishcouncil.org</email></emails></institute>
+</article>
+
+
+<article paperid="c11335j">
+<names AddressAuthorId="0"><c-name>Jan</c-name><s-name>Selby</s-name></names>
+<names AddressAuthorId="1"><c-name>Clemens</c-name><s-name>Hoffmann</s-name></names>
+<institute AddressAuthorId="0"><address>Department of International Relations, School of Global Studies, University of Sussex, Falmer, Brighton BN1 9SN, England</address>
+<emails><email>j.selby@sussex.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>International Relations, Bilkent University, 06800 Ankara, Turkey;
+        e-mail clemens@bilkent.edu.tr</address>
+<emails/></institute>
+<institute AddressAuthorId="2"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="c1205j">
+<names AddressAuthorId="0"><c-name>Ayona</c-name><s-name>Datta</s-name></names>
+<institute AddressAuthorId="0"><address>School of Geography, Faculty of Environment, University of Leeds, Leeds LS2 9JT, England</address>
+<emails><email>a.datta@leeds.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="c1208j">
+<names AddressAuthorId="0"><c-name>Andrew</c-name><s-name>Geddes</s-name></names>
+<names AddressAuthorId="1"><c-name>Andrew</c-name><s-name>Jordan</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Politics, University of Sheffield, Elmfield, Northumberland Road,
+        Sheffield S10 2TU, England</address>
+<emails><email>andrew.geddes@eui.eu</email></emails></institute>
+<institute AddressAuthorId="1"><address>School of Environmental Sciences, University of East Anglia, Norwich Research Park, Norwich NR4 7TJ, England</address>
+<emails><email>a.jordan@uea.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="c1209j">
+<names AddressAuthorId="0"><c-name>Koko</c-name><s-name>Warner</s-name></names>
+<institute AddressAuthorId="0"><address>United Nations University Institute for Environment and Human Security, UN Campus, Herman-Ehlerstr. 10, D-53113 Bonn, Germany</address>
+<emails><email>warner@ehs.unu.edu</email></emails></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="c1242j">
+<names AddressAuthorId="0"><c-name>Susan F</c-name><s-name>Martin</s-name></names>
+<institute AddressAuthorId="0"><address>Institute for the Study of International Migration, Georgetown University, Washington, DC&#xA0;20057, USA</address>
+<emails><email>martinsf@georgetown.edu</email></emails></institute>
+</article>
+
+
+<article paperid="c1249j">
+<names AddressAuthorId="0"><c-name>Andrew</c-name><s-name>Geddes</s-name></names>
+<names AddressAuthorId="1"><c-name>William</c-name><s-name>Somerville</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Politics, University of Sheffield, Elmfield, Northumberland Road, Sheff ield&#xA0;S10 2TU, England</address>
+<emails><email>a.geddes@sheff.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Migration Policy Institute, 1400 16th St NW, Ste 300, Washington, DC 20036, USA;
+        e-mail:</address>
+<emails><email>wsomerville@migrationpolicy.org</email></emails></institute>
+</article>
+
+
+<article paperid="c3006">
+<names AddressAuthorId="0"><c-name>Trevor</c-name><s-name>Jones,</s-name><c-name>Monder</c-name><s-name>Ram</s-name></names>
+</article>
+
+
+<article paperid="c3006c">
+<names AddressAuthorId="0"><c-name>Andrew</c-name><s-name>Geddes</s-name></names>
+<names AddressAuthorId="1"><c-name>W Neil</c-name><s-name>Adger</s-name></names>
+<names AddressAuthorId="2"><c-name>Nigel W</c-name><s-name>Arnell</s-name></names>
+<names AddressAuthorId="3"><c-name>Richard</c-name></names>
+<names AddressAuthorId="4"><c-name>David S G</c-name><s-name>Thomas</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Politics, University of Sheffield, Elmfield, Northumberland Road,
+        Sheffield S10 2TN, England</address>
+<emails><email>a.geddes@shef.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Geography, College of Life and Environmental Sciences, University of Exeter,
+        Rennes Drive, Exeter EX4 4RJ, England</address>
+<emails><email>n.adger@exeter.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address>Walker Institute, Agriculture Building, University of Reading, Earley Gate,
+        Reading RG6 6AR, England</address>
+<emails><email>n.w.arnell@reading.ac.uk</email></emails></institute>
+<institute AddressAuthorId="3"><address>School of Global Studies, University of Sussex, Brighton BN1 9SJ, England;
+        e-mail:</address>
+<emails><email>r.black@sussex.ac.uk</email></emails></institute>
+<institute AddressAuthorId="4"><address>Oxford University Centre for the Environment (Dyson Perrins Building),
+        University of Oxford, South Parks Road, Oxford OX1 3QY, England;
+        e-mail:</address>
+<emails><email>david.thomas@ouce.ox.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="c3006ed">
+<names AddressAuthorId="0"><c-name>Andrew</c-name><s-name>Geddes</s-name></names>
+<names AddressAuthorId="1"><c-name>W Neil</c-name><s-name>Adger</s-name></names>
+<names AddressAuthorId="2"><c-name>Nigel W</c-name><s-name>Arnell</s-name></names>
+<names AddressAuthorId="3"><c-name>Richard</c-name><s-name>Black</s-name></names>
+<names AddressAuthorId="4"><c-name>David S G</c-name><s-name>Thomas</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Politics, University of Sheffield, Elmfield, Northumberland Road,
+        Sheffield S10 2TN, England</address>
+<emails><email>a.geddes@shef.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Geography, College of Life and Environmental Sciences, University of Exeter,
+        Rennes Drive, Exeter EX4 4RJ, England</address>
+<emails><email>n.adger@exeter.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address>Walker Institute, Agriculture Building, University of Reading, Earley Gate,
+        Reading RG6 6AR, England</address>
+<emails><email>n.w.arnell@reading.ac.uk</email></emails></institute>
+<institute AddressAuthorId="3"><address>School of Global Studies, University of Sussex, Brighton BN1 9SJ, England;
+        e-mail:</address>
+<emails><email>r.black@sussex.ac.uk</email></emails></institute>
+<institute AddressAuthorId="4"><address>Oxford University Centre for the Environment (Dyson Perrins Bldg.), University of Oxford, South Parks Road, Oxford OX1 3QY, England</address>
+<emails><email>david.thomas@ouce.ox.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="c452wr1">
+<names AddressAuthorId="0"/>
+<institute AddressAuthorId="0"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="c464wr2">
+<names AddressAuthorId="0">Emma<s-name>Cardwell</s-name></names>
+</article>
+
+
+<article paperid="c466wr3">
+<names AddressAuthorId="0">RalitsaHiteva</names>
+</article>
+
+</root>

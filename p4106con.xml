@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epa 2012 D 44 issue 5-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>P</journal>
+  <volume>41</volume>
+  <issue>6</issue>
+  <html_in>../per_4106/*.html</html_in>
+  <save_refs>./epa_refs/</save_refs>
+  <save_db>./per_db_41_06/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+<!--Normal Paper -->
+  <paper pid='p7201'>
+    <start>661</start>
+    <finish>672</finish>
+    <ptype></ptype>
+  </paper>
+<!--Misc Paper -->
+  <paper pid='p7240'>
+    <start>673</start>
+    <finish>686</finish>
+    <misc>
+     <title>Pdf file</title>
+     <file>p7240-ap1.pdf</file>
+    </misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='p7023'>
+    <start>687</start>
+    <finish>706</finish>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='p7212'>
+    <start>707</start>
+    <finish>716</finish>
+    <misc>
+     <title>Pdf file</title>
+     <file>p7212-f1.pdf</file>
+    </misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='p7056'>
+    <start>717</start>
+    <finish>732</finish>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='p7125'>
+    <start>733</start>
+    <finish>746</finish>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='p7198'>
+    <start>747</start>
+    <finish>754</finish>
+    <misc>
+     <title>Table pdf 1</title>
+     <file>p7198-tableA1.pdf</file>
+    </misc>
+    <misc>
+     <title>Table pdf 2</title>
+     <file>p7198-tableA2.pdf</file>>
+    </misc>
+    <ptype>16</ptype>
+  </paper>
+  
+   <paper pid='p4106rvw'>
+    <start>755</start>
+    <finish>756</finish>
+    <ptype></ptype>
+  </paper> 
+ </papers>
+</config>
+  
+
+
+

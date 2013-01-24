@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epa 2012 A 44 issue 9-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>D</journal>
+  <volume>30</volume>
+  <issue>6</issue>
+  <html_in>../d_3006/*.html</html_in>
+  <save_refs>./epd_refs/</save_refs>
+  <save_db>./epa_db_30_06/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+<!--Normal Paper -->
+  <paper pid='d2345'>
+    <start>2041</start>
+    <finish>2042</finish>
+    <ptype></ptype>
+  </paper>
+  
+<!--Misc Paper -->
+  <paper pid='d1234'>
+    <start>2064</start>
+    <finish>2085</finish>
+    <misc>
+     <title>Appendix</title>
+     <file>d1234.pdf</file>
+    </misc>
+    <ptype></ptype>
+  </paper>
+  
+ </papers>
+</config>
+  
+
+
+
+

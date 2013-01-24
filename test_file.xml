@@ -1,0 +1,11 @@
+<root><c-name>Juan Antonio</c-name><s-name>Carrasco</s-name>
+<c-name>Beatriz</c-name><s-name>Cid-Aguayo</s-name>
+<institute><phpproc><phpregexp>s/email:$//</phpregexp><phpstring>address</phpstring></phpproc><address>
+        Department of Civil Engineering, Universidad de Concepci&#243;n, PO Box 160-C, Concepci&#243;n, Chile; e-mail: j.
+      </address>
+<emails><email>carrasco@udec.cl</email></emails></institute>
+<institute><phpproc><phpregexp>s/email:$//</phpregexp><phpstring>address</phpstring></phpproc><address>
+        Department of Sociology and Anthropology, Universidad de Concepci&#243;n, PO Box 160-C, Concepci&#243;n, Chile; e-mail: 
+        Received 31 May 2010; in revised form 6 June 2011
+      </address>
+<emails><email>beatrizcid@udec.cl</email></emails></institute></root>

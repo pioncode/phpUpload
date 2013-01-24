@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<!-- Epa 2012 D 44 issue 5-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>B</journal>
+  <volume>39</volume>
+  <issue>3</issue>
+  <html_in>../ecb_html/*.html</html_in>
+  <save_refs>./epb_refs/</save_refs>
+  <save_db>./epb_db_proof/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+
+  <paper pid='b3903ed'>
+    <start>413</start>
+    <finish>415</finish>
+    <misc></misc>
+    <ptype>5</ptype>
+  </paper>
+
+  <paper pid='b37032'>
+    <start>417</start>
+    <finish>438</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='b37162'>
+    <start>439</start>
+    <finish>458</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='b36168'>
+    <start>459</start>
+    <finish>470</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='b36174'>
+    <start>471</start>
+    <finish>485</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='b37074'>
+    <start>486</start>
+    <finish>500</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='b37034'>
+    <start>501</start>
+    <finish>517</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='b37172'>
+    <start>518</start>
+    <finish>532</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='b37151'>
+    <start>533</start>
+    <finish>550</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='b37148'>
+    <start>551</start>
+    <finish>565</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='b37135'>
+    <start>566</start>
+    <finish>585</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='b37122'>
+    <start>586</start>
+    <finish>604</finish>
+    <misc></misc>
+    <ptype></ptype> 
+  </paper>
+
+  <paper pid='b684rev'>
+    <start>605</start>
+    <finish>606</finish>
+    <misc></misc>
+  </paper>
+  
+ </papers>
+</config>
+  
+
+

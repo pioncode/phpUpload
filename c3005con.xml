@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epa 2012 A 44 issue 10-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>C</journal>
+  <volume>30</volume>
+  <issue>05</issue>
+  <html_in>../EP_folders/html_c_30_05/*.html</html_in>
+  <save_refs>./epb_refs/</save_refs>
+  <save_db>./epc_db_30_05/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+<!--Normal Paper -->
+  <paper pid='c3005ed'>
+    <start>761</start>
+    <finish>765</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='c1182'>
+    <start>766</start>
+    <finish>779</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='c1191'>
+    <start>780</start>
+    <finish>795</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='c1180'>
+    <start>796</start>
+    <finish>815</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <!--Normal Paper -->
+  <paper pid='c1190'>
+    <start>816</start>
+    <finish>834</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='c1181'>
+    <start>835</start>
+    <finish>847</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='c11234r'>
+    <start>848</start>
+    <finish>870</finish>
+    <ptype></ptype>
+    </paper>
+  
+    <!--Normal Paper -->
+  <paper pid='c11113'>
+    <start>871</start>
+    <finish>890</finish>
+    <ptype></ptype>
+    </paper>
+  
+    <!--Normal Paper -->
+  <paper pid='c1165r'>
+    <start>891</start>
+    <finish>909</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='c11241'>
+    <start>910</start>
+    <finish>923</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='c11149r'>
+    <start>924</start>
+    <finish>940</finish>
+    <misc>
+     <title>Appendix</title>
+     <file>appendix.pdf</file>
+    </misc>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='c3005rev'>
+    <start>941</start>
+    <finish>942</finish>
+    <ptype></ptype>
+  </paper>
+  
+ </papers>
+</config>
+  
+
+
+
+

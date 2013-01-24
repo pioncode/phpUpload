@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epa 2012 A 44 issue 10-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>A</journal>
+  <volume>44</volume>
+  <issue>10</issue>
+  <html_in>../EP_folders/html_a_44_10/*.html</html_in>
+  <save_refs>./epb_refs/</save_refs>
+  <save_db>./epa_db_44_10/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+<!--Normal Paper -->
+  <paper pid='a44627'>
+    <start>2295</start>
+    <finish>2297</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a4410as'>
+    <start>2298</start>
+    <finish>2302</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a45282'>
+    <start>2303</start>
+    <finish>2309</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a44675'>
+    <start>2310</start>
+    <finish>2326</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <!--Normal Paper -->
+  <paper pid='a44559'>
+    <start>2327</start>
+    <finish>2343</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a452'>
+    <start>2344</start>
+    <finish>2358</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a44660'>
+    <start>2359</start>
+    <finish>2378</finish>
+    <ptype></ptype>
+    </paper>
+  
+    <!--Normal Paper -->
+  <paper pid='a44366'>
+    <start>2379</start>
+    <finish>2396</finish>
+    <ptype></ptype>
+    </paper>
+  
+    <!--Normal Paper -->
+  <paper pid='a44558'>
+    <start>2397</start>
+    <finish>2412</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a44668'>
+    <start>2413</start>
+    <finish>2427</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a44678'>
+    <start>2428</start>
+    <finish>2444</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a44647'>
+    <start>2445</start>
+    <finish>2462</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a44707'>
+    <start>2463</start>
+    <finish>2476</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a4525'>
+    <start>2477</start>
+    <finish>2492</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Misc Paper -->
+  <paper pid='a44504'>
+    <start>2493</start>
+    <finish>2511</finish>
+    <misc>
+     <title>Appendix</title>
+     <file>a44504ap.pdf</file>
+    </misc>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a44692'>
+    <start>2512</start>
+    <finish>2529</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='review'>
+    <start>2530</start>
+    <finish>2532</finish>
+    <ptype></ptype>
+  </paper>
+ </papers>
+</config>
+  
+
+
+
+

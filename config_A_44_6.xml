@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<!-- Epa 2012 D 44 issue 5-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>A</journal>
+  <volume>44</volume>
+  <issue>6</issue>
+  <html_in>../epa/html/*.html</html_in>
+  <save_refs>./epa_refs/</save_refs>
+  <save_db>./epa_db_a_44_6/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+
+  <paper pid='a4547'>
+    <start>1271</start>
+    <finish>1277</finish>
+    <misc></misc>
+    <ptype>2</ptype>
+  </paper>
+
+  <paper pid='a44334'>
+    <start>1278</start>
+    <finish>1301</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='a44349'>
+    <start>1302</start>
+    <finish>1326</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='a44464'>
+    <start>1327</start>
+    <finish>1347</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='a44381'>
+    <start>1348</start>
+    <finish>1362</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='a44267'>
+    <start>1363</start>
+    <finish>1388</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='a44314'>
+    <start>1389</start>
+    <finish>1406</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='a44387'>
+    <start>1407</start>
+    <finish>1424</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='a44411'>
+    <start>1425</start>
+    <finish>1442</finish>
+    <misc></misc>
+    <ptype>2</ptype>
+  </paper>
+
+  <paper pid='a44579'>
+    <start>1443</start>
+    <finish>1458</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='a44436'>
+    <start>1459</start>
+    <finish>1478</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='a44507'>
+    <start>1479</start>
+    <finish>1501</finish>
+    <misc></misc>
+    <ptype></ptype> 
+  </paper>
+
+  <paper pid='a44453'>
+    <start>1502</start>
+    <finish>1522</finish>
+    <misc></misc>
+    <ptype></ptype>
+  </paper>
+  
+  <paper pid='a237rev'>
+    <start>1523</start>
+    <finish>1524</finish>
+    <misc></misc>
+    <ptype>3</ptype>
+  </paper>
+ 
+ </papers>
+</config>
+  
+
+

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='us-ascii' standalone='yes'?>
+<root>
+
+<article paperid="a43222">
+<names AddressAuthorId="0"><c-name>Juan Antonio</c-name><s-name>Carrasco</s-name></names>
+<names AddressAuthorId="1"><c-name>Beatriz</c-name><s-name>Cid-Aguayo</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Civil Engineering, Universidad de Concepci&#xF3;n, PO Box 160-C, Concepci&#xF3;n, Chile</address>
+<emails><email>carrasco@udec.cl</email></emails></institute>
+<institute AddressAuthorId="1"><address>Department of Sociology and Anthropology, Universidad de Concepci&#xF3;n, PO Box 160-C, Concepci&#xF3;n, Chile</address>
+<emails><email>beatrizcid@udec.cl</email></emails></institute>
+</article>
+
+
+<article paperid="a43223">
+<names AddressAuthorId="0"><c-name>Darren M</c-name><s-name>Scott</s-name></names>
+<names AddressAuthorId="1"><c-name>Ivy</c-name><s-name>Dam</s-name></names>
+<names AddressAuthorId="2"><c-name>Antonio</c-name><s-name>P&#xE1;ez,</s-name><c-name>Robert D</c-name><s-name>Wilton</s-name></names>
+<institute AddressAuthorId="0"><address>TransLAB (Transportation Research Lab), School of Geography and Earth Sciences, McMaster University, 1280 Main Street West, Hamilton, ON L8S 4K1, Canada</address>
+<emails><email>scottdm@mcmaster.ca</email></emails></institute>
+<institute AddressAuthorId="1"><address>Department of Geography and Environmental Studies, Wilfrid Laurier University, 75 University Avenue West, Waterloo, ON N2L 3C5, Canada</address>
+<emails><email>damx4870@wlu.ca</email></emails></institute>
+<institute AddressAuthorId="2"><address>School of Geography and Earth Sciences, McMaster University, 1280 Main Street West, Hamilton, ON L8S 4K1, Canada</address>
+<emails><email>paezha@mcmaster.ca</email><email>wiltonr@mcmaster.ca</email></emails></institute>
+</article>
+
+
+<article paperid="a43458">
+<names AddressAuthorId="0"><c-name>Matthias</c-name><s-name>Kowald</s-name><c-name>Kay W</c-name><s-name>Axhausen</s-name></names>
+<institute AddressAuthorId="0"><address>Institute for Transport Planning and Systems (IVT), ETH Zurich, Wolfgang-Pauli-Strasse 15, HIL F 51.2, 8093 Zurich, Switzerland</address>
+<emails><email>kowald@ivt.baug.ethz.ch</email><email>axhausen@ivt.baug.ethz.ch</email></emails></institute>
+</article>
+
+
+<article paperid="a44257">
+<names AddressAuthorId="0"><c-name>Gordon L</c-name><s-name>Clark</s-name></names>
+<institute AddressAuthorId="0"><address>School of Geography and Environment, University of Oxford, Hinshelwood Road, Oxford OX1 3QY, England, and Faculty of Business and Economics, Monash University, Caulfield 3145, Victoria, Australia</address>
+<emails/></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="a44274">
+<names AddressAuthorId="0"><c-name>Andrew</c-name><s-name>McCulloch</s-name><c-name>John</c-name><s-name>Mohan</s-name><c-name>Peter</c-name><s-name>Smith</s-name></names>
+<institute AddressAuthorId="0"><address>Third Sector Research Centre, University of Southampton, Southampton SO17 1BJ, England</address>
+<emails><email>J.Mohan@tsrc.ac.uk</email><email>P.W.Smith@soton.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="a44294">
+<names AddressAuthorId="0"><c-name>Ran</c-name><s-name>Liu</s-name><c-name>Tai-Chee</c-name><s-name>Wong</s-name></names>
+<names AddressAuthorId="1"><c-name>Shenghe</c-name><s-name>Liu</s-name></names>
+<institute AddressAuthorId="0"><address>National Institute of Education, Nanyang Technological University, Singapore;
+        e-mail: ,</address>
+<emails><email>liu.ran.space@hotmail.com</email><email>taichee.wong@nie.edu.sg</email></emails></institute>
+<institute AddressAuthorId="1"><address>Institute of Geographical Sciences and Natural Resources, Chinese Academy of Sciences, Beijing, China</address>
+<emails><email>liush@igsnrr.ac.cn</email></emails></institute>
+<institute AddressAuthorId="2"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="a4438">
+<names AddressAuthorId="0"/>
+<institute AddressAuthorId="0"><address>Urban Planning Group, Eindhoven University of Technology, The Netherlands;</address>
+<emails/></institute>
+<institute AddressAuthorId="1"><address>e-mail: , ,</address>
+<emails><email>t.a.arentze@bwk.tue.nl</email><email>p.e.w.v.d.berg@bwk.tue.nl</email><email>h.j.p.timmermans@bwk.tue.nl</email></emails></institute>
+<institute AddressAuthorId="2"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="a44382">
+<names AddressAuthorId="0"><c-name>Ron</c-name><s-name>Johnston</s-name></names>
+<names AddressAuthorId="1"><c-name>Charles</c-name><s-name>Pattie</s-name></names>
+<names AddressAuthorId="2"><c-name>David</c-name><s-name>Cutts</s-name></names>
+<names AddressAuthorId="3"><c-name>Justin</c-name><s-name>Fisher</s-name></names>
+<institute AddressAuthorId="0"><address>School of Geographical Sciences, University of Bristol, Bristol BS8 1SS, England</address>
+<emails><email>R.Johnston@bristol.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Department of Geography, University of Sheffield, Sheffield S10 2TN, England</address>
+<emails><email>C.Pattie@sheffield.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address>Institute of Social Change, University of Manchester, Manchester M13 9PL, England</address>
+<emails><email>david.cutts@man.ac.uk</email></emails></institute>
+<institute AddressAuthorId="3"><address>Magna Carta Institute, Brunel University, Uxbridge UB8 3PH, England;
+        e-mail:</address>
+<emails><email>justin.fisher@brunel.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="a44413">
+<names AddressAuthorId="0"><c-name>Kimberley</c-name><s-name>Peters</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography, University of Sheffield, Winter Street, Sheffield S10 2TN, England</address>
+<emails><email>k.peters@sheffield.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="a44446">
+<names AddressAuthorId="0"><c-name>David</c-name><s-name>Clifford</s-name></names>
+<institute AddressAuthorId="0"><address>Third Sector Research Centre, Faculty of Social and Human Sciences, University of Southampton, Southampton SO17 1BJ, England</address>
+<emails><email>d.clifford@tsrc.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="a44450">
+<names AddressAuthorId="0"><c-name>Duncan</c-name><s-name>Wlodarczak</s-name></names>
+<institute AddressAuthorId="0"><address>Urban Studies Program, Simon Fraser University, 2155 &#x2013; 515 West Hastings Street, Vancouver, BC V6B 5K3, Canada</address>
+<emails/></institute>
+</article>
+
+
+<article paperid="a44497">
+
+</article>
+
+
+<article paperid="a44697">
+
+</article>
+
+
+<article paperid="a45183">
+
+</article>
+
+</root>

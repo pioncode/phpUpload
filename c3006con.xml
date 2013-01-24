@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- EPC 2012 C Vol 30 issue 6-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2013</year>
+  <journal>C</journal>
+  <volume>30</volume>
+  <issue>6</issue>
+  <html_in>../html/*.html</html_in>
+  <save_refs>./epc_refs/</save_refs>
+  <save_db>./epc_db_30_06/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+ 
+ <papers>
+  
+  <theme>
+   <startpage>951</startpage>
+   <endpage>1078</endpage>
+   <title>
+   Theme issue: Migration and global environmental change: assessing governance challenges and opportunities
+   </title>
+   <guested>
+    Andrew Geddes, W Neil Adger, Nigel W Arnell, Richard Black, David S G Thomas
+   </guested>
+   <p14>
+   Editors’ choice
+   </p14>
+  </theme>
+
+  <theme>
+   <startpage>1129</startpage>
+   <endpage>1131</endpage>
+   <title>
+   Reviews
+   </title>
+   <guested>
+   </guested>
+   <p14>
+   </p14>
+  </theme>
+
+
+  <paper pid='c3006rev'>
+    <start>943</start>
+    <finish>943</finish>
+    <ptype>5</ptype>
+  </paper>
+
+  <paper pid='c3006'>
+    <start>944</start>
+    <finish>950</finish>
+ <ptype></ptype>
+  </paper>
+
+  <paper pid='c3006ed'>
+    <start>951</start>
+    <finish>967</finish>
+    <ptype></ptype>
+  </paper>
+<!--Editorial ptype 14-->
+  <paper pid='c11333'>
+    <start>968</start>
+    <finish>981</finish>
+    <ptype>14</ptype>
+  </paper>
+
+  <paper pid='c1205j'>
+    <start>982</start>
+    <finish>996</finish>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11335j'>
+    <start>997</start>
+    <finish>1014</finish>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c1249j'>
+    <start>1015</start>
+    <finish>1028</finish>  
+  </paper>
+  
+   <paper pid='c1208j'>
+    <start>1029</start>
+    <finish>1044</finish>
+    <ptype></ptype>
+  </paper> 
+  
+     <paper pid='c1242j'>
+    <start>1045</start>
+    <finish>1060</finish>
+    <ptype></ptype>
+  </paper> 
+  
+     <paper pid='c1209j'>
+    <start>1061</start>
+    <finish>1077</finish>
+    <ptype></ptype>
+  </paper> 
+  
+     <paper pid='c3006c'>
+    <start>1078</start>
+    <finish>1082</finish>
+    <ptype></ptype>
+  </paper> 
+  
+     <paper pid='c11290'>
+    <start>1083</start>
+    <finish>1099</finish>
+    <ptype></ptype>
+  </paper> 
+  
+     <paper pid='c11275b'>
+    <start>1100</start>
+    <finish>1115</finish>
+    <ptype></ptype>
+  </paper> 
+  
+     <paper pid='c1122'>
+    <start>1116</start>
+    <finish>1128</finish>
+    <ptype></ptype>
+</paper>
+    
+       <paper pid='c452wr1'>
+    <start>1129</start>
+    <finish>1129</finish>
+    <ptype>9</ptype>
+  </paper> 
+  
+     <paper pid='c464wr2'>
+    <start>1130</start>
+    <finish>1130</finish>
+    <ptype>9</ptype>
+  </paper>
+    
+       <paper pid='c466wr3'>
+    <start>1131</start>
+    <finish>1131</finish>
+    <ptype>9</ptype>
+  </paper> 
+  
+  
+ </papers>
+</config>
+  
+
+
+
