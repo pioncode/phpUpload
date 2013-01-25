@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epa 2013 A 45 issue 1-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype0   = Featured graphic
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2013</year>
+  <journal>A</journal>
+  <volume>45</volume>
+  <issue>1</issue>
+  <html_in>../a_4501/*.html</html_in>
+  <save_refs>./epa_refs/</save_refs>
+  <save_db>./epa_db_45_01/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+<!--Normal Paper -->
+  <paper pid='a461'>
+    <start>1</start>
+    <finish>2</finish>
+    <ptype>5</ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a44482'>
+    <start>3</start>
+    <finish>9</finish>
+    <ptype>1</ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a44483'>
+    <start>10</start>
+    <finish>18</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a44484'>
+    <start>19</start>
+    <finish>36</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <!--Normal Paper -->
+  <paper pid='a45161'>
+    <start>37</start>
+    <finish>54</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a45184'>
+    <start>55</start>
+    <finish>69</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a44486'>
+    <start>70</start>
+    <finish>76</finish>
+    <ptype>2</ptype>
+    </paper>
+  
+    <!--Normal Paper -->
+  <paper pid='a44674'>
+    <start>77</start>
+    <finish>99</finish>
+    <ptype></ptype>
+    </paper>
+  
+    <!--Normal Paper -->
+  <paper pid='a45349'>
+    <start>100</start>
+    <finish>102</finish>
+    <ptype>0</ptype>
+  </paper>
+  
+  <!--Normal Paper -->
+  <paper pid='a45383'>
+    <start>103</start>
+    <finish>108</finish>
+    <ptype>2</ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a4571'>
+    <start>109</start>
+    <finish>125</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a4574'>
+    <start>126</start>
+    <finish>141</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a45130'>
+    <start>142</start>
+    <finish>158</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a45106'>
+    <start>159</start>
+    <finish>179</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a4566'>
+    <start>180</start>
+    <finish>196</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a4577'>
+    <start>197</start>
+    <finish>216</finish>
+    <ptype></ptype>
+  </paper>
+  
+   <!--Normal Paper -->
+  <paper pid='a45121'>
+    <start>217</start>
+    <finish>234</finish>
+    <ptype></ptype>
+  </paper>
+ </papers>
+</config>
+  
+
+
+
+

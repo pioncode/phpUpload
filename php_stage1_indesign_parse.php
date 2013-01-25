@@ -4,7 +4,7 @@
 //Run php_upload_step2.php step two to convert Author XML to SQL code
 include './ClassMakeWeb.php';
 include_once './ClassConfig.php';
-$open_config_xml = './c3006con.xml';
+$open_config_xml = './a4501con.xml';
 
 
 

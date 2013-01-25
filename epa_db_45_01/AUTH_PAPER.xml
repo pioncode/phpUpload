@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='us-ascii' standalone='yes'?>
+<root>
+
+<article paperid="a44484">
+<names AddressAuthorId="0"><c-name>Martin</c-name><s-name>Dodge</s-name></names>
+<names AddressAuthorId="1"><c-name>Rob</c-name><s-name>Kitchin</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography, University of Manchester, Oxford Road, Manchester M13 9PL, England</address>
+<emails><email>m.dodge@manchester.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>NIRSA, National University of Ireland, Maynooth, Co. Kildare, Ireland;
+        e-mail:</address>
+<emails><email>rob.kitchin@nuim.ie</email></emails></institute>
+</article>
+
+
+<article paperid="a44674">
+<names AddressAuthorId="0"/>
+<names AddressAuthorId="1"/>
+<institute AddressAuthorId="0"><address>Oxford Internet Institute, University of Oxford, 1 St Giles, Oxford OX1 3JS, and School of Geography and the Environment, South Parks Road, Oxford OX1 3QY, England</address>
+<emails/></institute>
+<institute AddressAuthorId="1"><address>Department of Geography, University of Kentucky, 1457 Patterson Office Tower, Lexington, KY 40506, USA</address>
+<emails/></institute>
+</article>
+
+
+<article paperid="a45106">
+<names AddressAuthorId="0"><c-name>Fiona F</c-name><s-name>Yang</s-name><c-name>Anthony G O</c-name><s-name>Yeh</s-name></names>
+<institute AddressAuthorId="0"><address>Centre of Urban Studies and Urban Planning, The University of Hong Kong,
+        Pokfulam Road, Hong Kong SAR</address>
+<emails><email>fionayf@hku.hk</email><email>Anthony.Yeh@hku.hk</email></emails></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="a45121">
+<names AddressAuthorId="0"><c-name>Graham</c-name><s-name>Haughton</s-name></names>
+<names AddressAuthorId="1"><c-name>Phil</c-name><s-name>Allmendinger</s-name></names>
+<names AddressAuthorId="2"><c-name>Stijn</c-name><s-name>Oosterlynck</s-name></names>
+<institute AddressAuthorId="0"><address>School of Environment and Development, The University of Manchester, Manchester M13 9PL, England</address>
+<emails><email>graham.haughton@manchester.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Department of Land Economy, University of Cambridge, 19 Silver Street,
+        Cambridge CB3 9EP, England</address>
+<emails><email>pma32@cam.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address>Centre on Inequality, Poverty, Social Exclusion and the City, Department of Sociology, Antwerp University, Belgium</address>
+<emails><email>Stijn.Oosterlynck@ua.ac.be</email></emails></institute>
+</article>
+
+
+<article paperid="a45130">
+<names AddressAuthorId="0"><c-name>Julie</c-name><s-name>Guthman</s-name></names>
+<institute AddressAuthorId="0"><address>Division of Social Sciences, University of California, Santa Cruz, 1156 High Street, Santa&#xA0;Cruz, CA 95064, USA</address>
+<emails><email>jguthman@ucsc.edu</email></emails></institute>
+</article>
+
+
+<article paperid="a45161">
+<names AddressAuthorId="0"><c-name>Wen</c-name><s-name>Lin</s-name></names>
+<institute AddressAuthorId="0"><address>School of Geography, Politics and Sociology, Newcastle University, Newcastle upon Tyne NE1 7RU, England</address>
+<emails><email>wen.lin@ncl.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="a45184">
+<names AddressAuthorId="0"><c-name>Mordechai (Muki)</c-name><s-name>Haklay</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Civil, Environmental and Geomatic Engineering, University College London, Gower Street, London WC1E 6BT, England</address>
+<emails><email>m.haklay@ucl.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="a4566">
+<names AddressAuthorId="0"><c-name>Paul</c-name><s-name>Simpson</s-name></names>
+<institute AddressAuthorId="0"><address>School of Physical and Geographical Sciences, William Smith Building, Keele University, Keele ST5 5BG, England</address>
+<emails/></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="a4571">
+<names AddressAuthorId="0"><c-name>Damian</c-name><s-name>Collins</s-name></names>
+<institute AddressAuthorId="0"><address>Human Geography Program, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada</address>
+<emails><email>damian.collins@ualberta.ca</email></emails></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="a4574">
+<names AddressAuthorId="0"><c-name>Phil</c-name><s-name>Hubbard</s-name></names>
+<names AddressAuthorId="1"><c-name>Spike</c-name><s-name>Boydell</s-name></names>
+<names AddressAuthorId="2"><c-name>Penny</c-name><s-name>Crofts</s-name></names>
+<names AddressAuthorId="3"><c-name>Jason</c-name><s-name>Prior</s-name></names>
+<names AddressAuthorId="4"><c-name>Glen</c-name><s-name>Searle</s-name></names>
+<institute AddressAuthorId="0"><address>SSPSSR, University of Kent, Chatham Maritime, Kent ME4 4AG, England;
+        e-mail: P.Hubbard@kent.ac.uk</address>
+<emails/></institute>
+<institute AddressAuthorId="1"><address>School of the Built Environment, University of Technology Sydney, PO Box 123,
+        NSW 2007, Australia</address>
+<emails><email>Spike.Boydell@uts.edu.au</email></emails></institute>
+<institute AddressAuthorId="2"><address>Faculty of Law, University of Technology Sydney, PO Box 123, NSW 2007, Australia</address>
+<emails><email>Penny.Crofts@uts.edu.au</email></emails></institute>
+<institute AddressAuthorId="3"><address>Institute for Sustainable Futures, University of Technology Sydney, PO Box 123, NSW 2007, Australia</address>
+<emails><email>jason.prior@uts.edu.au</email></emails></institute>
+<institute AddressAuthorId="4"><address>School of Geography and Planning, University of Queensland, Brisbane, Qld 4072, Australia</address>
+<emails><email>g.searle@uq.edu.au</email></emails></institute>
+<institute AddressAuthorId="5"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="a4577">
+<names AddressAuthorId="0"><c-name>Richard D</c-name><s-name>Knowles</s-name></names>
+<institute AddressAuthorId="0"><address>Research Centre for Urban Change, University of Salford, Salford M5 4WT, England</address>
+<emails><email>r.d.knowles@salford.ac.uk</email></emails></institute>
+</article>
+
+</root>
