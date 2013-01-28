@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<DOCUMENT>
+<!-- 8 digit ID goes here. This will double as a password for poster uploads -->
+<ABID>PSVG012</ABID>
+
+<!-- CONF tag contains gobal data like conference title, year, date, location, organisers and abstract-->
+<CONF>
+ <!-- Put your title, year, date, and location here-->
+ <TITLE>Scottish Vision Group</TITLE>
+ <YEAR>2012</YEAR>
+ <DATE>23&#8211;25 March 2012</DATE>
+ <LOCATION>Tarland, Scotland-UK</LOCATION>
+
+ <!-- All names are tagged as <NAME>First names<FS/>Surnames</NAMES>-->
+ <ORGANISER>
+  <NAME>Amelia<FS/>Hunt</NAME> 
+  <NAME>Jasna<FS/>Martinovic</NAME>
+ </ORGANISER>			
+
+
+ <INTRO>You Intro here. It can contain HTML</INTRO>
+</CONF>
+
+
+<ABSTRACTS>
+<!--
+Start loading abstract articles:
+The articles are either TALKS or POSTERS. The difference between a TALK and a POSTER is that a POSTER will display an upload box for the speaker to load a copy of the poster as a PDF for download. The XML structure for a POSTER is the same as a TALK
+
+The articles are grouped in SETS. These can be used to identify Talk/Poster sessions by date and time.
+
+In this example, we have a set called Our Talks, Monday Morning, 3rd September. Talks and poster are mixed together in this set
+-->
+<SET type='talk'>
+ <TITLE>Our Talks</TITLE>
+ <DAY>Monday</DAY>
+ <DATE>3rd September</DATE>
+ <TIME>Morning</TIME>
+
+  <!--This is a talk, there will be one or more per session-->
+  <TALK>
+   <TITLE>My title for this talk</TITLE>
+   <!--
+   Billy and Bob are at the same institue:1, The Big Institute
+   Jimmy is at institute:2 The Little Institite
+   -->
+   <NAME org='1'>Billy<FS/>Smith</NAME>
+   <NAME org='1'>Bob<FS/>Ted</NAME>
+   <NAME org='2'>Jimmy<FS/>Jones</NAME>
+   <ORG org='1'>The Big Institute</ORG>
+   <ORG org='2'>The Little Institute</ORG>
+   <EMAIL>Main contact email here</EMAIL>
+   <OVERVIEW>Abstract</OVERVIEW>
+  </TALK>
+
+ <POSTER>
+  <!--Exactly the same structure as a Talk, however, this will have a poster upload function on the webpage-->
+ </POSTER>
+
+ <!--Add more talks or posters here-->
+
+</SET>
+
+<SET>
+<!-- Add more sets here-->
+</SET>
+
+</ABSTRACTS>
+</DOCUMENT>
+
