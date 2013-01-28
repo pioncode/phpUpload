@@ -1,0 +1,37 @@
+#This is an example of how section headings are added
+#and how the ids named XXXX in the XML are ordered under section headings
+#This is a CSV file and we will ignore
+#everything at the top of the file before hashes as a comment
+#
+#This file is normally supplied as as an EXCEL/OpenOffice worksheet with the following columns:
+#abstract id|day|session_name
+#We can convert these type of files to CSV at Pion
+#NOTE: Word documents will needs extensive editing to get into a CSV and we can not accept these!
+
+abstract id|day|session_name
+0752|Sunday|Symposium : Deforming shapes - deformable templates
+0750|Sunday|Symposium : Deforming shapes - deformable templates
+0754|Sunday|Symposium : Deforming shapes - deformable templates
+0751|Sunday|Symposium : Deforming shapes - deformable templates
+0753|Sunday|Symposium : Deforming shapes - deformable templates
+0755|Sunday|Symposium : Deforming shapes - deformable templates
+0741|Sunday|Symposium : Computer Vision & Biological Vision
+0749|Sunday|Symposium : Computer Vision & Biological Vision
+0550|Sunday|Symposium : Computer Vision & Biological Vision
+0747|Sunday|Symposium : Computer Vision & Biological Vision
+0738|Sunday|Symposium : Computer Vision & Biological Vision
+0717|Sunday|Symposium : Computer Vision & Biological Vision
+0716|Monday|Symposium : Rhythms of Perception and Attention
+0576|Monday|Symposium : Rhythms of Perception and Attention
+0709|Monday|Symposium : Rhythms of Perception and Attention
+0322|Monday|Symposium : Rhythms of Perception and Attention
+0564|Monday|Symposium : Rhythms of Perception and Attention
+0560|Monday|Symposium : Rhythms of Perception and Attention
+0089|Monday|Talk 1 : 3D perception
+0175|Monday|Talk 1 : 3D perception
+0505|Monday|Talk 1 : 3D perception
+0533|Monday|Talk 1 : 3D perception
+0541|Monday|Talk 1 : 3D perception
+0705|Monday|Talk 1 : 3D perception
+0143|Monday|Talk 1 : 3D perception
+0036|Monday|Talk 1 : 3D perception

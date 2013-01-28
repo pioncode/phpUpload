@@ -152,7 +152,7 @@ INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,
 VALUES
 ('a45383','A','2013','45','1',
 '103','108','2',
-'Situating neogeography',
+'Whose crisis? Spatial imaginaries of class, poverty, and vulnerability',
 'There is no abstract with this paper',
 'TRUE'
 );
@@ -180,13 +180,13 @@ DELETE FROM authors WHERE paperid ='a44674';
 INSERT into authors 
 (first_name,last_name,paperid, position, designator, recno, corresp_auth, footnote, email, affilnum)
 VALUES
-('Matthew W','Wilson','a44674','0', 'A', nextval('authors_recno_seq'), 'False',NULL,'','0')
+('Matthew','Zook','a44674','1', 'A', nextval('authors_recno_seq'), 'False',NULL,'','0')
 ;
 
 INSERT into authors 
 (first_name,last_name,paperid, position, designator, recno, corresp_auth, footnote, email, affilnum)
 VALUES
-('Mark','Graham','a44674','1', 'A', nextval('authors_recno_seq'), 'False',NULL,'','0')
+('Mark','Graham','a44674','0', 'A', nextval('authors_recno_seq'), 'False',NULL,'','0')
 ;
 /**/
 

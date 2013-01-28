@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Abstract: xml:id will be a four integer id in  the xml:id attribute, XXXX, that defines the abstract
+
+The id XXXX is used for Author and Address tags
+
+name tag ===>
+This is appended by nXXXX_N where N is the order of the author in the author xml:id attribute 
+ie nXXXX_1 for author 1
+   nXXXX_2 for author 2
+
+Also, there is an addressref tag that links the author to an address. Called Y, it is an integer.
+
+address tag ===>  
+For the address tag the xml:id is labeled adXXXX_Y where Y comes from above as the link that connects to the author
+
+
+contact tag===>Contact email
+abstract tag ===> Abstract
+
+The order of the abstracts and section heading are set by a separate CSV file using the XXXX codes as a reference
+
+All the abstracts are entered like this. The document saved as UTF8 and I can convert any special characters here at Pion to XML
+If you can validate special characters as XML numbered entities, that would be very helpful!
+
+
+-->
+
+
+<abstracts xmlns="http://pion.co.uk/ns/ecvp">
+
+<!--One abstract 0001-->
+<abstract xmlns="http://pion.co.uk/ns/ecvp" xml:id="0001">
+  <title>My title</title>
+  <authors>
+    <author xml:id="n0001_1" addressref="1">
+      <initials>J</initials>
+      <name>Jason</name>
+      <surname>Tipples</surname>
+    </author>
+    <author xml:id="n0001_2" addressref="2">
+      <initials>P</initials>
+      <name>Patrick</name>
+      <surname>Johnston</surname>
+    </author>
+    <author xml:id="n0001_3" addressref="2">
+      <initials>V</initials>
+      <name>Victoria</name>
+      <surname>Brattan</surname>
+    </author>
+  </authors>
+  <addresses>
+    <address xml:id="ad0001_1">University of Hull, UK</address>
+    <address xml:id="ad0001_2">University of York, UK</address>
+  </addresses>
+  <contact>Contact email</contact>
+  <text>Abstract</text>
+</abstract>
+
+<!--And another abstract 0002-->
+<abstract xmlns="http://pion.co.uk/ns/ecvp" xml:id="0002">
+  <title>My title</title>
+  <authors>
+    <author xml:id="n0002_1" addressref="1">
+      <initials>D</initials>
+      <name>Dave</name>
+      <surname>Smith</surname>
+    </author>
+    <author xml:id="n0002_2" addressref="2">
+      <initials>P</initials>
+      <name>Pat</name>
+      <surname>James</surname>
+    </author>
+    <author xml:id="n0002_3" addressref="2">
+      <initials>V</initials>
+      <name>Vinc</name>
+      <surname>Bail</surname>
+    </author>
+  </authors>
+  <addresses>
+    <address xml:id="ad0002_1">University of London, UK</address>
+    <address xml:id="ad0002_2">University of Brighton, UK</address>
+  </addresses>
+  <contact>Contact email</contact>
+  <text>Abstract</text>
+</abstract>
+
+<!--And so on....-->
+
+</abstracts>
