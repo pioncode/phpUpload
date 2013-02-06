@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epa 2012 D 44 issue 5-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2012</year>
+  <journal>P</journal>
+  <volume>41</volume>
+  <issue>11</issue>
+  <html_in>./html_per_4111/*.html</html_in>
+  <save_refs>./epa_refs/</save_refs>
+  <save_db>./per_db_41_11/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers> 
+  <!--Normal Papers-->
+ <paper pid='p7257'>
+    <start>1289</start>
+    <finish>1298</finish>
+    <misc>
+     <title>Figure 1</title>
+     <file>p7257-f1.pdf</file>
+    </misc>
+       <misc>
+     <title>Figure 3</title>
+     <file>p7257-f3.pdf</file>
+    </misc>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p6666'>
+    <start>1299</start>
+    <finish>1314</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7197'>
+    <start>1315</start>
+    <finish>1322</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7081'>
+    <start>1323</start>
+    <finish>1335</finish>
+      <ptype></ptype>
+  </paper>
+    
+  <paper pid='p7331'>
+    <start>1336</start>
+    <finish>1354</finish>
+    <misc>
+     <title>Figure 6</title>
+     <file>p7331-f6.pdf</file>
+    </misc>
+       <misc>
+     <title>Figure 12</title>
+     <file>p7331-f12.pdf</file>
+    </misc>
+       <ptype></ptype>
+  </paper>
+  
+  <paper pid='p7392'>
+    <start>1355</start>
+    <finish>1372</finish>
+    <misc>
+     <title>Figure 1</title>
+     <file>p7392-f1.pdf</file>
+    </misc>
+  <misc>
+     <title>Figure 2</title>
+     <file>p7392-f2.pdf</file>
+    </misc>
+  <misc>
+     <title>Figure 3</title>
+     <file>p7392-f3.pdf</file>
+    </misc>
+   <misc>
+     <title>Figure 4</title>
+     <file>p7392-f4.pdf</file>
+    </misc>
+  <misc>
+     <title>Figure 5</title>
+     <file>p7392-f5.pdf</file>
+    </misc>
+  <misc>
+     <title>Figure 6</title>
+     <file>p7392-f6.pdf</file>
+    </misc>
+    <misc>
+     <title>Figure 7</title>
+     <file>p7392-f7.pdf</file>
+    </misc>
+  <misc>
+     <title>Figure 8</title>
+     <file>p7392-f8.pdf</file>
+    </misc>
+  <misc>
+     <title>Figure 9</title>
+     <file>p7392-f9.pdf</file>
+    </misc>
+   <misc>
+     <title>Figure 10</title>
+     <file>p7392-f10.pdf</file>
+    </misc>
+  <misc>
+     <title>Appendix</title>
+     <file>p7317ap.pdf</file>
+    </misc>
+  <misc>
+     <title>movies [65Mb]</title>
+     <file>p7317mov.pptx</file>
+    </misc>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7267'>
+    <start>1373</start>
+    <finish>1391</finish>
+     <ptype></ptype>
+  </paper>
+  
+     <!--Short & Sweet papers-->
+ <paper pid='p7288'>
+    <start>1392</start>
+    <finish>1394</finish>
+      <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7355'>
+    <start>1395</start>
+    <finish>1398</finish>
+    <misc>
+     <title>Figure 1</title>
+     <file>p7355-f1.pdf</file>
+    </misc>
+       <ptype></ptype>
+  </paper>
+     
+ <paper pid='p7251'>
+    <start>1399</start>
+    <finish>1402</finish>
+    <ptype></ptype>
+  </paper>
+  
+ <paper pid='p7358'>
+    <start>1403</start>
+    <finish>1408</finish>
+       <ptype></ptype>
+  </paper>
+  
+    <!--Reviewss-->
+ <paper pid='p4111rvw'>
+    <start>1409</start>
+    <finish>1413</finish>
+    <ptype></ptype>
+  </paper>
+  
+ </papers>
+</config>
+  
+
+
