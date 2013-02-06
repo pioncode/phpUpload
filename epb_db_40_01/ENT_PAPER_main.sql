@@ -14,12 +14,13 @@ DELETE FROM papers  WHERE paperid ='b38141';
 DELETE FROM papers  WHERE paperid ='b4001ed';
 DELETE FROM papers  WHERE paperid ='b4001rev';
 
-INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract)
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,open-access)
 VALUES
 ('b4001ed','B','2013','40','1',
 '1','2','5',
 'Defining geodesign ( = GIS + design ?)',
-'There is no abstract with this paper'
+'There is no abstract with this paper',
+'TRUE'
 );
 
 INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract)
