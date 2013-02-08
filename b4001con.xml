@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Epb 2013 V 40 issue 1-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype0   = Featured graphic
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2013</year>
+  <journal>B</journal>
+  <volume>40</volume>
+  <issue>1</issue>
+  <html_in>../html/*.html</html_in>
+  <save_refs>./epb_refs/</save_refs>
+  <save_db>./epb_db_40_01/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+  <paper pid='b4001ed'>
+    <start>1</start>
+    <finish>2</finish>
+    <ptype>5</ptype>
+  </paper>
+  <paper pid='b37181'>
+    <start>3</start>
+    <finish>22</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b38102'>
+    <start>23</start>
+    <finish>42</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b38010'>
+    <start>43</start>
+    <finish>62</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b37024'>
+    <start>63</start>
+    <finish>77</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b37140'>
+    <start>78</start>
+    <finish>94</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b37137'>
+    <start>95</start>
+    <finish>116</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b37142'>
+    <start>116</start>
+    <finish>134</finish>
+    <ptype></ptype>
+  </paper>
+   <paper pid='b38141'>
+    <start>135</start>
+    <finish>153</finish>
+    <ptype></ptype>
+  </paper>
+   <paper pid='b38092'>
+    <start>154</start>
+    <finish>169</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='b38061'>
+    <start>170</start>
+    <finish>181</finish>
+    <ptype></ptype>
+  </paper>
+  <paper pid='reviews'>
+    <start>182</start>
+    <finish>190</finish>
+    <ptype>3</ptype>
+  </paper></papers>
+</config>
+  
+
+
+
+
