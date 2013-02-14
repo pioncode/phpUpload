@@ -1,0 +1,16 @@
+DELETE FROM affil   WHERE paperid ='d0112';
+DELETE FROM authors WHERE paperid ='d0112';
+DELETE FROM affil   WHERE paperid ='d13111';
+DELETE FROM authors WHERE paperid ='d13111';
+DELETE FROM affil   WHERE paperid ='d14410';
+DELETE FROM authors WHERE paperid ='d14410';
+DELETE FROM affil   WHERE paperid ='d18811';
+DELETE FROM authors WHERE paperid ='d18811';
+DELETE FROM affil   WHERE paperid ='d22610';
+DELETE FROM authors WHERE paperid ='d22610';
+DELETE FROM affil   WHERE paperid ='d23011';
+DELETE FROM authors WHERE paperid ='d23011';
+DELETE FROM affil   WHERE paperid ='d25811';
+DELETE FROM authors WHERE paperid ='d25811';
+DELETE FROM affil   WHERE paperid ='d7411';
+DELETE FROM authors WHERE paperid ='d7411';

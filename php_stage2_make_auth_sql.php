@@ -5,11 +5,7 @@
 //Run php_upload_step2.php step two to convert Author XML to SQL code
 include './ClassMakeWeb.php';
 include_once './ClassConfig.php';
-<<<<<<< HEAD
-$open_config_xml = './b4001con.xml';
-=======
-$open_config_xml = './config_P_41_11.xml';
->>>>>>> d76586b3a0570257a366946ebbc2d3fc252a56b0
+$open_config_xml = './config_D_31_1.xml';
 /*
 $open_config_xml2 = './b3905con.xml';
 $open_config_xml3 = './c3005con.xml';
