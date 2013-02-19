@@ -107,6 +107,7 @@ VALUES
       <br>
         <b>Keywords:</b> migration, displacement, planned relocation, climate change, adaptation, UNFCCC climate negotiations, Cancun Adaptation Framework, paragraph 14(f ), policy, governance'
 );
+
 INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract)
 VALUES
 ('c1242j','C','2012','30','6',

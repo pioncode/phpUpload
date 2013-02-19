@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='us-ascii' standalone='yes'?>
+<root>
+
+<article paperid="c1101b">
+<names AddressAuthorId="0"><c-name>Arturo</c-name><s-name>Vega</s-name></names>
+<names AddressAuthorId="1"><c-name>Mike</c-name><s-name>Chiasson</s-name><c-name>David</c-name><s-name>Brown</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Business and Management, Canterbury Christ Church University, Canterbury&#xA0;CT1 1QU, England</address>
+<emails><email>arturo.vega@canterbury.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Department of Management Science, Lancaster University Management School, Lancaster&#xA0;LA1 4YX, England; ,</address>
+<emails><email>m.chiasson@lancaster.ac.uk</email><email>d.brown@lancaster.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="c11123">
+<names AddressAuthorId="0"><c-name>Rebecca</c-name><s-name>Edwards</s-name></names>
+<names AddressAuthorId="1"><c-name>Graham</c-name><s-name>Smith</s-name></names>
+<names AddressAuthorId="2"><c-name>Milena</c-name><s-name>B&#xFC;chs</s-name></names>
+<institute AddressAuthorId="0"><address>Research and Knowledge Exchange, Bournemouth University, Melbury House,
+        1&#x2013;3 Oxford Road, Bournemouth BH8 8ES, England</address>
+<emails><email>redwards@bournemouth.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Centre for the Study of Democracy, University of Westminster, 32&#x2013;38 Wells Street,
+        London W1T 3UW, England;</address>
+<emails><email>g.smith@westminister.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address>Sociology and Social Policy, University of Southampton, University Road,
+        Southampton SO17 1BJ, England</address>
+<emails><email>M.Buechs@soton.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="c11134">
+<names AddressAuthorId="0"><c-name>Stijn</c-name><s-name>Brouwer</s-name></names>
+<names AddressAuthorId="1"><c-name>Tim</c-name><s-name>Rayner</s-name></names>
+<names AddressAuthorId="2"><c-name>Dave</c-name><s-name>Huitema</s-name></names>
+<institute AddressAuthorId="0"><address>Institute for Environmental Studies, VU University, Amsterdam, De Boelelaan&#xA0;1087, 1081&#xA0;HV&#xA0;Amsterdam, The Netherlands</address>
+<emails><email>stijn.brouwer@ivm.vu.nl</email></emails></institute>
+<institute AddressAuthorId="1"><address>Tyndall Centre for Climate Change, University of East Anglia, Norwich NR4&#xA0;7TJ, England and School of Sciences, Netherlands Open University, PO Box 2960, 6401DL Heerlen, The&#xA0;Netherlands</address>
+<emails><email>tim.rayner@uea.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address>Institute for Environmental Studies, VU University, Amsterdam, De&#xA0;Boelelaan&#xA0;1087, 1081&#xA0;HV&#xA0;Amsterdam, The Netherlands</address>
+<emails><email>dave.huitema@ivm.vu.nl</email></emails></institute>
+</article>
+
+
+<article paperid="c11155r">
+<names AddressAuthorId="0"><c-name>Nancy</c-name><s-name>Holman</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography and Environment, London School of Economics and Political Science, Houghton Street, London WC2A 2AE, England</address>
+<emails><email>n.e.holman@lse.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="c11168">
+<names AddressAuthorId="0"><c-name>Erik</c-name><s-name>Gawel</s-name></names>
+<names AddressAuthorId="1"><c-name>Kristina</c-name><s-name>Bernsen</s-name></names>
+<institute AddressAuthorId="0"><address>Helmholtz Centre for Environmental Research, Permoserstra&#xDF;e 15, 04318 Leipzig, Germany</address>
+<emails><email>erik.gawel@ufz.de</email></emails></institute>
+<institute AddressAuthorId="1"><address>Universitat Leipzig, Institut f&#xFC;r Infrastruktur und Ressourcenmanagement Grimmaische, Stra&#xDF;e 12, 04109 Leipzig, Germany</address>
+<emails><email>bernsen@wifa.uni-leipzig.de</email></emails></institute>
+</article>
+
+
+<article paperid="c11247">
+<names AddressAuthorId="0"><c-name>David</c-name><s-name>Aubin</s-name></names>
+<names AddressAuthorId="1"><c-name>Fr&#xE9;d&#xE9;ric</c-name><s-name>Varone</s-name></names>
+<institute AddressAuthorId="0"><address>Institut de sciences politiques Louvain-Europe, Universit&#xE9; catholique de Louvain, place&#xA0;Montesquieu 1 bo&#xEE;te L2.08.07, B-1348 Louvain-la-Neuve, Belgium;
+        e-mail:&#xA0;</address>
+<emails><email>david.aubin@uclouvain.be</email></emails></institute>
+<institute AddressAuthorId="1"><address>D&#xE9;partement de science politique et relations internationales, Universit&#xE9; de Gen&#xE8;ve, 40&#xA0;boulevard du Pont d&#x2019;Arve, CH-1211 Gen&#xE8;ve 4, Switzerland;
+        e-mail:&#xA0;</address>
+<emails><email>frederic.varone@unige.ch</email></emails></institute>
+</article>
+
+
+<article paperid="c1125b">
+<names AddressAuthorId="0"><c-name>Andrew</c-name><s-name>Atherton</s-name></names>
+<names AddressAuthorId="1"><c-name>David</c-name><s-name>Smallbone</s-name></names>
+<institute AddressAuthorId="0"><address>Lancaster University, Bailrigg, Lancaster LA1 1YY, England;
+        e-mail:</address>
+<emails><email>a.atherton@lancaster.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Kingston Business School, Kingston&#xA0;Upon&#xA0;Thames, Surrey KT2 7LB, England;
+        e-mail:</address>
+<emails><email>D.Smallbone@kingston.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="c11329b">
+<names AddressAuthorId="0"><c-name>Philippe</c-name><s-name>Van Cauwenberge</s-name><c-name>Heidi</c-name><s-name>Vander Bauwhede</s-name><c-name>Bilitis</c-name><s-name>Schoonjans</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Accountancy and Corporate Finance, University of Ghent, Ghent, Belgium;
+        e-mail: , e,</address>
+<emails><email>Philippe.VanCauwenberge@ugent.be</email><email>Heidi.VanderBauwhede@ugent.b</email><email>Bilitis.Schoonjan@ugent.be</email></emails></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="c12113b">
+<names AddressAuthorId="0"><c-name>Paul</c-name><s-name>Jones</s-name></names>
+<names AddressAuthorId="1"><c-name>Malcolm</c-name><s-name>Beynon</s-name></names>
+<names AddressAuthorId="2"><c-name>David</c-name><s-name>Pickernell</s-name></names>
+<names AddressAuthorId="3"><c-name>Gary</c-name><s-name>Packham</s-name></names>
+<institute AddressAuthorId="0"><address>Plymouth Business School, The University of Plymouth, Drake Circus,
+        Plymouth PL4 8AA, England</address>
+<emails><email>Paul.Jones@plymouth.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address>Cardiff Business School, Cardiff University, Aberconway Building, Colum Drive, Cardiff CF10 3EU, Wales</address>
+<emails><email>BeynonMJ@cardiff.ac.uk</email></emails></institute>
+<institute AddressAuthorId="2"><address>Glamorgan Business School, University of Glamorgan, Treforest CF37 1DL, Wales;
+        e-mail:</address>
+<emails><email>dgpicker@glam.ac.uk</email></emails></institute>
+<institute AddressAuthorId="3"><address>Lord Ashcroft International Business School, Anglia Ruskin University, East Road, Cambridge CB1 1PT, England</address>
+<emails><email>gary.packham@anglia.ac.uk</email></emails></institute>
+<institute AddressAuthorId="4"><address></address>
+<emails/></institute>
+</article>
+
+</root>
