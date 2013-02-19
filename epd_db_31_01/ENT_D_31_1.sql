@@ -1,0 +1,165 @@
+DELETE FROM papers  WHERE paperid ='d0112';
+DELETE FROM papers  WHERE paperid ='d13111';
+DELETE FROM papers  WHERE paperid ='d14410';
+DELETE FROM papers  WHERE paperid ='d18811';
+DELETE FROM papers  WHERE paperid ='d22610';
+DELETE FROM papers  WHERE paperid ='d23011';
+DELETE FROM papers  WHERE paperid ='d25811';
+DELETE FROM papers  WHERE paperid ='d7411';
+DELETE FROM papers  WHERE paperid ='d20311';
+DELETE FROM papers  WHERE paperid ='d9311';
+DELETE FROM papers  WHERE paperid ='d31rfs';
+
+
+
+
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,internal_only)
+VALUES
+('d0112','D','2013','31','1',
+'43','60','0',
+'Reworking the spaces of indigeneity: the Bolivian ayllu and lowland autonomy movements compared',
+'This paper examines the political uses of indigenous identity and how understandings of indigeneity are changing in contemporary Bolivia. In particular we address two interrelated questions: first, in what ways are understandings of indigeneity and the &#8216;indigenous&#8217; changing in Bolivia, and to what effect? And, second, how does indigeneity inform conceptualizations of territory and the nation? We examine two ethno-territorial projects and the organizations that represent them, in two different regions of Bolivia: the <i>ayllu</i> movement, as represented by the National Council of Ayllus and Markas of Qullasuyu and the Andean Oral History Workshop, and the lowland autonomy movement, as represented by the Camba Nation and the pro-Santa Cruz Committee. We argue that both the ayllu movement and the lowland autonomy movement are ethno-territorial projects which mobilize essentialized understandings of indigenous identity in order to legitimate historical claims to territorial and political rights.
+      <br>
+        <b>Keywords:</b> Bolivia, indigenous, indigeneity, identity politics, ethno-territorial project'
+,TRUE);
+
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,internal_only)
+VALUES
+('d13111','D','2013','31','1',
+'23','42','0',
+'The production of space: a neglected perspective in pastoral research',
+'This paper offers an overview of the dispersed elements of social spatiality present in the rich work about pastoralists and their space, and brings them together under the conceptual framework of Lefebvre&#8217;s production of space. The three facets of pastorally produced space are outlined: &#8216;perceived space&#8217;, low-intensity spatial footprints linked by seasonal migratory trails; &#8216;conceived space&#8217;, social territoriality and agrarian socialism; and &#8216;lived space&#8217;, ideologies of spatial attachment that transcend a particular place. Based on this framework, we discuss and illustrate with case studies the relational aspects between pastoral economic, cultural, and political structures and their spatiality. We suggest that such an engagement highlights the reciprocal constitutive interaction between space and society and the coherent nature of the production of pastoral space. We argue that the extent to which pastoral spatial coherence can be maintained in the face of pressures from other, rival, and often more powerful spatialities is paramount to the sustainability of pastoralist existence.
+      <br>
+        <b>Keywords:</b> pastoralism, production of space, structural coherence, social sustainability, trial by space'
+,TRUE);
+
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,internal_only)
+VALUES
+('d14410','D','2013','31','1',
+'4','22','0',
+'Postcolonialising informality?',
+'Urban informality has been the subject of renewed attention in recent years, with a resurgence of interest from architecture and planning. A focus on informality has however been criticised as reviving colonial hierarchies, characterising entire cities in terms of lack and rendering them perpetually inferior to Western cities. The call to postcolonialise urban studies has been answered by an emerging literature which has neglected Latin America. This paper therefore examines recent work on urban informality in the region that resonates with other scholarship at the intersection of postcolonial and urban studies. The Latin American work is characterised by an emphasis on informality as resistance and by challenges to the formal/informal binary. Its &#8216;favela-isation&#8217; of the continent can however perpetuate dualistic interpretations, entrenching or inverting stereotypes rather than disrupting them. The paper also asks what postcolonial readings of informality from elsewhere can contribute to understanding Latin American experience.
+      <br>
+        <b>Keywords:</b> urban informality, postcolonialism, Latin America, favela-isation, slums'
+,TRUE);
+
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,internal_only)
+VALUES
+('d18811','D','2013','31','1',
+'174','190','0',
+'Carceral geography and the spatialities of prison visiting: visitation, recidivism, and hyperincarceration',
+'Geography, as a disciplinary lens, brings a valuable perspective to the study of the carceral, and carceral geography&#8217;s concern for the spatial could provide a new explanatory perspective to the consideration of some accepted tenets within criminology, whilst at the same time offering a productive and useful &#8216;grounding&#8217; of contemporary geographies of&#160;emotion and affect. In the context of hyperincarceration and the carceral continuum&#160;of recidivism and repeated reimprisonment, this paper considers the long-observed rela&#173;tionship between prison visitation and reduced recidivism, posits prison visiting rooms as underresearched carceral spaces, and develops theoretical and methodological innovations which nuance the understanding of prison visiting.
+      <br>
+        <b>Keywords:</b> carceral geography, prison, visitation, recidivism, hyperincarceration, affect, liminal'
+,TRUE);
+
+
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,internal_only)
+VALUES
+('d22610','D','2013','31','1',
+'116','139','0',
+'Playing with the line, channelling multiplicity: wind power planning in the Narbonnaise (Aude, France)',
+'This paper describes an innovative planning process, the Wind Power Charter of the Regional Natural Park of the Narbonnaise (southern France). By &#8216;innovative&#8217;, we mean that planners&#8217; decisions relate to the site/situation which they aim to transform rather than to preexisting norms or abstract territorial representations, as is so often the case in wind power planning processes. This planning process has a direct consequence: it succeeds in taking into account the existing local landscape and in engaging it in a transformative process. Drawing upon Deleuze&#8217;s and Guattari&#8217;s concepts of &#8216;map&#8217;/&#8216;tracing&#8217;, and on Deleuze&#8217;s concept of &#8216;sign&#8217;, we follow the way in which landscape is circulated in this process and analyse the relational properties of the graphic representations which underlie it. The analysis relies on a follow-up of the design and consultation work throughout this process. It shows how an iconographic practice can contribute to the composition of an emerging reality (new landscape) without indexing it to preexisting and normative representations of the territory: hence the title of the paper, &#8220;Playing with&#160;the line, channelling multiplicity&#8221;, which connects the materiality of graphic forms with the&#160;nonrepresentational&#8212;with the multiplicity of the emerging energy landscapes.
+      <br>
+        <b>Keywords:</b> wind power, planning, landscape, graphic form, relation, map, tracing, Deleuze'
+,TRUE);
+
+
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,internal_only)
+VALUES
+('d23011','D','2013','31','1',
+'140','156','0',
+'Surviving the turbulent future',
+'In neoliberal societies, the future is increasingly being cast as unpredictable and dangerous, reason to fashion new ways of managing hazard and risk. In the process, a culture based on providing comprehensive risk avoidance and protection from an authorised centre is being displaced by one in which the authorities, experts, and publics are expected to work in concert to do the best they can to resist adversity. Two emerging keywords are preparedness and resilience, intended to strengthen the human capacity to anticipate, resist, and recover from adversity. Building on an earlier critique of the neoliberal calculus of risk mitigation, this paper turns to the machinery of urban maintenance and to the trysts of embedded welfare democracy to propose a counterposition. In recognising the entanglements between humans and nonhumans in the management of urban unpredictability and emergency, and also the settlements of social contract between state and citizen in social democracies such as Sweden, the paper both redefines and displaces ideas of risk management through human resilience.
+      <br>
+        <b>Keywords:</b> resilience, risk, cities, catastrophism, welfarism'
+,TRUE);
+
+
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,internal_only)
+VALUES
+('d25811','D','2013','31','1',
+'99','115','0',
+'Decolonising property: exploring ethics, land, and time, through housing interventions in contemporary Australia',
+'The idea of property is a fundamental and foundational component of modern industrialised economies and yet, as a growing body of work shows, property is far from settled as a concept, or as a set series of relationships&#8212;whether between institutions, humans, places, and/or other species. Property systems are part of emergent, complex socioecological systems, reflecting and manifesting social and political phenomena, and asserting particular forms of citizen/self as acceptable, preferable and dominant. Predominant Western understandings of property rely on, enable, and anticipate increases in property value over time, reflecting particular conceptualisations and experiences of time shaped by Judeo&#8211;Christian teleological narratives in which time moves towards a perfect state that ironically remains perpetually imminent. This essay is concerned with tracing the ontological baggage of predominant understandings of property and time and exploring the terrain of their Others, as well as exploring the shifts in relationships between these in a decolonising and postmodern Australian context. This paper will reveal some of the diversity of what and how societies think about property and time, to suggest we may be starting&#8212;albeit stutteringly&#8212;to acknowledge and engage with multiple and complex iterations of these.
+      <br>
+        <b>Keywords:</b> property, time, ethics, decolonisation, law, country, housing'
+,TRUE);
+
+
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,internal_only)
+VALUES
+('d7411','D','2013','31','1',
+'61','79','0',
+'Dissimulated landscapes: postcolonial method and the politics of space in southern Sri Lanka',
+'This paper puts forward a broadly postcolonial method for engaging with landscapes in South Asia, in this case southern Sri Lanka. It argues that, as valuable as the familiar theoretical and conceptual languages of Euro-American landscape geography are, they also risk concealing a range of different aesthetics, social formations, and experiences that unfold in the non-Euro-American landscape. They risk dissimulating the politics of places as they are produced and lived contextually. In the paper I work this argument through a critical engagement of the landscape architecture of Sri Lanka&#8217;s most famous tropical&#8211;modernist architect, Geoffrey Bawa; I specifically focus on his favorite, intensely choreographed, view at the estate <i>Lunuganga</i> on Sri Lanka&#8217;s south coast. As I show, while tools from the new cultural geography and beyond can help us to read this view as a&#160;classically modernist and apolitical landscape, a work of &#8216;art for art&#8217;s sake&#8217;, it is only a radically contextual familiarization with Sri Lankan society, politics, and history that can also reveal the landscape&#8217;s more subtle instantiation of a spatializing Sinhala&#8211;Buddhist hegemony. Indeed, I show how some of the familiar (Eurocentric) concept-metaphors that we might intuitively bring to a reading of this landscape&#8212;namely &#8216;nature&#8217;, &#8216;religion&#8217;, and &#8216;subjectivity&#8217;&#8212;hold at arm&#8217;s length particular kinds of landscape politics that emerge from differently textualized human relationships with the environment. The paper charts a method responsive to <i>this particular</i> landscape, and by doing so insists on the difficult task of retaining the singularity of landscapes positioned beyond the Euro-American staging grounds of the conceptual debates current within contemporary cultural geography.
+      <br>
+        <b>Keywords:</b> landscape, architecture, Sri Lanka, Geoffrey Bawa, postcolonial, Buddhism'
+,TRUE);
+
+
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,internal_only)
+VALUES
+('d20311','D','2013','31','1',
+'80','98','0',
+'Entrepreneurial assemblages from off the map:
+(trans) national designs for Tangier',
+'Poststructuralist perspectives need to be reconciled with political economic
+readings of urban globalization. One approach complements the other: the enactment of
+distantiated circuits and the territorialization of flows occur within existing geographies
+of uneven development while contingently reproducing or reshaping such spatial
+conditions of possibility. We argue that broadening the realm of critical urbanism is
+particularly relevant for researching peripheral entrepreneurialisms and their inherent
+(im)mobilities, conspicuous ambition paired with unavoidable constraints. This
+paper focuses on Tanger City Center, a landmark redevelopment controversial for its
+exclusionary designs and troubled inception. Adopting mobile methods with relational
+perspectives, we retrace the translocal negotiation of this symptomatic assemblage.
+However, we show that its territorialization cannot be understood apart from the state-sponsored
+remaking of Tangier into an expansive yet also unequal and fragmented
+city-region. Furthermore, underneath globalist discourse, the assemblage evinces
+circumscribed (trans)national agency at the planning stage, while subsequent frictions
+and disruptions punctuate the construction rhythm. Alongside its theoretical thrust,
+the paper contributes to: (a) the advancement of explicitly urban interpretations of
+globalization of the Middle East and North Africa, particularly Morocco\'s emerging
+neoliberal geographies under King Mohammed VI; and (b) the diversification of
+narratives of globalization-led urban change by theorizing entrepreneurial predicaments
+from off the map of global city imaginations.<br>
+<b>Keywords:</b> policy mobilities, assemblages, postcolonial urbanism, urban redevelopment,
+Morocco'
+,TRUE);
+
+
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,internal_only)
+VALUES
+('d9311','D','2013','31','1',
+'157','173','0',
+'Architectures of \'the good life\': queer assemblages and the composition of intimate citizenship',
+'This paper examines how the practices and events of queer collectivity might
+encourage us to think differently about the relationship between sexuality, intimacy, and
+citizenship. Through the exposition and discussion of four \'scenes\' based on ethnographic
+engagements with various LGBT collectives in Baltimore, MD, it attends to the visceral
+and more-than-human registers in which a fragile sense of community comes into being,
+subsequently developing an understanding of intimacy as a transversal sphere of mutual
+investment in which political and civic practices can be cultivated. This entails an analytical
+shift from understanding citizenship as a \'practice of claims\' within a (supra)national
+legal framework to its conceptualization as a \'practice of composition\', which brings
+into relief the civic nature of collective efforts towards the creation and maintenance of
+safe environments that foster marginalized expressions of sexuality, gender, and pleasure.
+These attempts to experiment with new forms of belonging and \'the good life\' are animated
+by the intimate associations, practices, and events that traverse public and private space&#8211times. Ultimately, then, it is argued that intimacy is itself a proper mode of citizenship,
+one of its \'regimes of enunciation\' that is folded into many contiguous others, and that a
+concern for the composition of \'civic intimacies\' productively augments and complicates
+established research on intimate/sexual citizenship.
+<br>
+<b>Keywords:</b> intimacy, citizenship, queer, sexuality, ethnography, composition'
+,TRUE);
+
+INSERT into papers (paperid,journal,year,volume,issue,start_page,end_page,ptype,title,abstract,internal_only)
+VALUES
+('d31rfs','D','2013','31','1',
+'1','3','4',
+'Referees',
+''
+,TRUE);
+
+

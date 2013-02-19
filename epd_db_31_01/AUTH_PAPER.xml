@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='us-ascii' standalone='yes'?>
+<root>
+
+<article paperid="d0112">
+<names AddressAuthorId="0"><c-name>Tom</c-name><s-name>Perreault</s-name><c-name>Barbara</c-name><s-name>Green</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography, 144 Eggers Hall, Syracuse University, Syracuse,
+        NY&#xA0;13244-1020, USA</address>
+<emails/></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="d13111">
+<names AddressAuthorId="0"><c-name>Yuval</c-name><s-name>Karplus</s-name><c-name>Avinoam</c-name><s-name>Meir</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography and Environmental Development, Ben-Gurion University of the Negev, Beer-Sheva, 84105 Israel</address>
+<emails><email>karplusy@bgu.ac.il</email><email>ameir@bgu.ac.il</email></emails></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="d14410">
+<names AddressAuthorId="0"><c-name>Ann</c-name><s-name>Varley</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography, University College London, Pearson Building, Gower&#xA0;Street, London WC1E 6BT, England</address>
+<emails><email>a.varley@geog.ucl.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="d18811">
+<names AddressAuthorId="0"><c-name>Dominique</c-name><s-name>Moran</s-name></names>
+<institute AddressAuthorId="0"><address>School of Geography, Earth and Environmental Sciences, University of Birmingham, Birmingham B15&#xA0;2TT, England</address>
+<emails><email>d.moran@bham.ac.uk</email></emails></institute>
+</article>
+
+
+<article paperid="d22610">
+<names AddressAuthorId="0"><c-name>Alain</c-name><s-name>Nada&#xEF;</s-name><c-name>Olivier</c-name><s-name>Labussi&#xE8;re</s-name></names>
+<institute AddressAuthorId="0"><address>Centre International de Recherche sur l&#x2019;Environnement et le D&#xE9;veloppement, Jardin Tropical, 45 bis avenue de la Belle Gabrielle, 94736 Nogent-sur-Marine CEDEX, France</address>
+<emails><email>nadai@centre-cired.fr</email><email>Olivier.labussiere@centre-cired.fr
+        Received 30 November 2010; in revised form 9 March 2012</email></emails></institute>
+</article>
+
+
+<article paperid="d23011">
+<names AddressAuthorId="0"><c-name>Ash</c-name><s-name>Amin</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography, University of Cambridge, Downing Place,
+        Cambridge CB2 3EN, England</address>
+<emails><email>aha2g@cam.ac.uk</email></emails></institute>
+<institute AddressAuthorId="1"><address></address>
+<emails/></institute>
+</article>
+
+
+<article paperid="d25811">
+<names AddressAuthorId="0"><c-name>Louise</c-name><s-name>Crabtree</s-name></names>
+<institute AddressAuthorId="0"><address>School of Humanities and Communication Arts, Building 3, Bankstown Campus, University of Western Sydney, Locked Bag 1797, Penrith NSW 2751, Australia;
+        e-mail:</address>
+<emails><email>l.crabtree@uws.edu.au</email></emails></institute>
+</article>
+
+
+<article paperid="d7411">
+<names AddressAuthorId="0"><c-name>Tariq</c-name><s-name>Jazeel</s-name></names>
+<institute AddressAuthorId="0"><address>Department of Geography, University of Sheffield, Winter Street, Sheffield S10 2TN, England</address>
+<emails><email>t.jazeel@shef.ac.uk</email></emails></institute>
+</article>
+
+</root>
