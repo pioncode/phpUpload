@@ -5,7 +5,7 @@
 include './ClassMakeWeb.php';
 include_once './ClassConfig.php';
 
-$open_config_xml = './config_D_31_1.xml';
+$open_config_xml = './p4201con.xml';
 
 
 
