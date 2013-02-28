@@ -1,0 +1,13 @@
+DELETE FROM papers  WHERE paperid ='p4201rvw';
+DELETE FROM papers  WHERE paperid ='p7186';
+DELETE FROM papers  WHERE paperid ='p7203';
+DELETE FROM papers  WHERE paperid ='p7242';
+DELETE FROM papers  WHERE paperid ='p7245';
+DELETE FROM papers  WHERE paperid ='p7269';
+DELETE FROM papers  WHERE paperid ='p7273';
+DELETE FROM papers  WHERE paperid ='p7322';
+DELETE FROM papers  WHERE paperid ='p7336';
+DELETE FROM papers  WHERE paperid ='p7341';
+DELETE FROM papers  WHERE paperid ='p7356';
+DELETE FROM papers  WHERE paperid ='p7368';
+DELETE FROM papers  WHERE paperid ='p7386';
