@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- EPC 2013 vol 31 issue 1-->
+<!--
+If ptype is not set or no there then paper id is set o zero
+ptype1   = Guest editorial
+ptype2   = Commentary
+ptype3   = Reviews
+ptype4   = Referees
+ptype5   = Editorial
+ptype6   = Obituary
+ptype7   = Author/Subject/Book reviews index
+ptype10  = Last but not least
+
+html_in  = directory with html selector of all the indesign html files
+xslt_ref = location of reference conversion rules to make html for web
+-->
+<config>
+ <info> 
+  <year>2013</year>
+  <journal>C</journal>
+  <volume>31</volume>
+  <issue>1</issue>
+  <html_in>../html/*.html</html_in>
+  <save_refs>./epa_refs/</save_refs>
+  <save_db>./epc_db_31_01/</save_db>
+  <xslt_ref>./make_refs.xsl</xslt_ref>
+  <xslt_title>./make_title.xsl</xslt_title>
+  <xslt_abs>./make_abstract.xsl</xslt_abs>
+  <xslt_author>./make_author.xsl</xslt_author>
+ </info>
+
+ <papers>
+  <paper pid='c3101ed'>
+    <start>1</start>
+    <finish>4</finish>
+    <ptype>1</ptype>
+  </paper>
+
+  <paper pid='c1125b'>
+    <start>5</start>
+    <finish>23</finish>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11329b'>
+    <start>24</start>
+    <finish>38</finish>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c1213b'>
+    <start>39</start>
+    <finish>55</finish>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c12113b'>
+    <start>56</start>
+    <finish>81</finish>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c11155r'>
+    <start>82</start>
+    <finish>101</finish>
+    <ptype></ptype>
+  </paper>
+
+  <paper pid='c1101b'>
+    <start>102</start>
+    <finish>118</finish>
+    <ptype></ptype>
+  </paper>
+  
+  <paper pid='c11123'>
+    <start>119</start>
+    <finish>133</finish>
+    <ptype></ptype>
+  </paper> 
+
+   <paper pid='c11134'>
+    <start>134</start>
+    <finish>153</finish>
+    <ptype></ptype>
+  </paper> 
+
+   <paper pid='c11247'>
+    <start>154</start>
+    <finish>167</finish>
+    <ptype></ptype>
+  </paper> 
+
+   <paper pid='c11168'>
+    <start>168</start>
+    <finish>181</finish>
+    <ptype></ptype>
+   </paper>
+
+   <paper pid='c460wr1'>
+    <start>182</start>
+    <finish>182</finish>
+    <ptype>9</ptype>
+   </paper>
+
+   <paper pid='c459wr2'>
+    <start>183</start>
+    <finish>183</finish>
+    <ptype>9</ptype>
+   </paper>
+
+   <paper pid='c470wr3'>
+    <start>185</start>
+    <finish>185</finish>
+    <ptype>9</ptype>
+   </paper>
+
+   <paper pid='c461wr4'>
+    <start>186</start>
+    <finish>186</finish>
+    <ptype>9</ptype>
+   </paper>
+   
+   <paper pid='c467wr5'>
+    <start>187</start>
+    <finish>187</finish>
+    <ptype>9</ptype>
+   </paper>
+   
+   <paper pid='c3101ref'>
+    <start>189</start>
+    <finish>190</finish>
+    <ptype>4</ptype>
+  </paper>
+  </papers>
+</config>
+  
+
+
+

@@ -70,7 +70,7 @@ VALUES
 INSERT into authors 
 (first_name,last_name,paperid, position, designator, recno, corresp_auth, footnote, email, affilnum)
 VALUES
-('Mordechai (Muki)','Haklay','a45184','0', 'A', nextval('authors_recno_seq'), 'False',NULL,'','0')
+('Mordechai','Haklay','a45184','0', 'A', nextval('authors_recno_seq'), 'False',NULL,'','0')
 ;
 INSERT into authors 
 (first_name,last_name,paperid, position, designator, recno, corresp_auth, footnote, email, affilnum)
