@@ -115,5 +115,5 @@ INSERT into affil
 INSERT into authors 
 (first_name,last_name,paperid, position, designator, recno, corresp_auth, footnote, email, affilnum)
  VALUES
-('John','Wagemans','i0580ic','4', 'A', nextval('authors_recno_seq'), 'False',NULL,'johan.wagemans@ppw.kuleuven.be','4');
+('Johan','Wagemans','i0580ic','4', 'A', nextval('authors_recno_seq'), 'False',NULL,'johan.wagemans@ppw.kuleuven.be','4');
 /***/
